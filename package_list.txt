@@ -262,6 +262,7 @@ CenterForOpenScience	osfr	R library for the Open Science Framework
 ChadGoymer	logr	A very simple logging package for R
 Chaiji	ChaijiExamST522	No description or website provided.
 Chaiji	LemilExamST522	Package created in group with Honguyen14
+ChanningWong	REcharts3	A R Interface to ECharts 3.0
 CharlesCara	Datastream2R	This is a series of functions for downloading data from the Thomson Reuters DataStream DWE server, which provides XML access to the Datstream database of economic and financial information.
 CharlesCara	DatastreamDSWS2R	Functions and a R5 class that allows data to be downloaded and uploaded to the Thomson Reuters Datastream database via the DSWS server
 CharlesJB	ENCODExplorer	No description or website provided.
@@ -301,6 +302,7 @@ ComputationalProteomicsUnit	Pbase	Manipluating and exploring protein and proteom
 ComputationalProteomicsUnit	pRolocGUI	An interactive interface to pRoloc - 
 ComputationalRegulatoryGenomicsICL	GenomicInteractions	R/Bioconductor package for handling Genomic interaction data, annotating genomic features with interaction information and producing summary plots / statistics
 ConorIA	senamhi	A collection of functions to obtain Peruvian climate data in R.
+ConorIA	senamhiR	A collection of functions to obtain Peruvian climate data in R.
 ConservationInternational	VitalSignsUtilities	No description or website provided.
 Conte-Ecology	conteStreamTemperature	Package for cleaning and analyzing stream daily stream temperature
 Conte-Ecology	zonalDaymet	Package developed to assign Daymet climate records to catchments.
@@ -463,6 +465,7 @@ EntirelyDS	sqlmapr	SQL Mapper in R
 Epiconcept-Paris	Epiconcepts	Bibliothèque R pour les épidémiologistes
 Epiconcept-Paris	GADMTools	Bibliothèque R permettant de gérer les shapefiles GADM
 Epiconcept-Paris	RServerUtils	R package - Tools for R Server
+EricArcher	geneticRF	Random Forest Analysis For Genetic Data
 EricArcher	rfPermute	Estimate Permutation p-Values for Random Forest Importance Metrics
 EricArcher	sprex	Calculate species richness functions for rarefaction and extrapolation
 EricArcher	strataG	strataG is a toolkit for haploid sequence and multilocus genetic data summaries, and analyses of population structure.
@@ -723,6 +726,7 @@ JVAdams	artiFISHal	A pelagic fish community simulator (R package), which can be 
 JVAdams	jvamisc	Miscellaneous utility functions (R package).
 JWiley	JWileymisc	R package with miscellaneous functions and utilities
 JaehyunSong	cjointPlot	Journal-like Visualization for cjoint Package
+JahNorr	icd	
 Jake-Gillberg	dgrdr	Degree day calculaion in R
 James-Thorson	Conway-Maxwell-Poisson	R package for calculating probability mass function or simulating draws from a Conway-Maxwell-Poisson distributimon
 James-Thorson	movement_tools	Computational tools for advective-diffusive movement on a grid or mesh
@@ -741,6 +745,7 @@ JeffreyBLewis	Rvoteview	R package to query Voteview US roll call voting database
 JeffreyRacine	R-Package-crs	R package crs (Categorical Regression Splines)
 JeffreyRacine	R-Package-np	R package np (Nonparametric Kernel Smoothing Methods for Mixed Data Types)
 JeroenSmaers	evomap	R package for evolutionary mapping of continuous traits
+Jfortin1	Jipito	Personal R package
 Jfortin1	RAVEL	Removal of Artificial Voxel Effect by Linear regression
 Jfortin1	RAVELData	Data package for RAVEL
 Jfortin1	RAVEL_data	Data package for RAVEL
@@ -792,6 +797,7 @@ KCIV	GithubTesting	No description or website provided.
 KCIV	Testing	No description or website provided.
 KCIV	VGheatmap	A respositry for the R package VGheatmap which generates heatmaps for video game analysis.
 KDB2	amsReliability	R package for reliability
+KDPerry	DBMdevmod	
 KDolos	LandClimTools	No description or website provided.
 KHartin	test	No description or website provided.
 KIT-IfGG	NFItools	Functions to support handling and analysis of national forest inventory data
@@ -833,7 +839,7 @@ LabNeuroCogDevel	LNCDR	No description or website provided.
 LaraUrban	covRNA	No description or website provided.
 Larhn	Ariane	
 Larhn	Artemis	fetch sdmx data
-Larhn	ilo	asdasd
+Larhn	ilo	View Data
 Lauren-Eyler	ECforshiny	ECforshiny
 Lauren-Eyler	EconomicClusters	No description or website provided.
 Lchiffon	REmap	create a map by R
@@ -1108,6 +1114,7 @@ PPgp	bayesPop	bayesPop R package
 PPgp	bayesTFR	R package for probabilistic projections of total fertility rate
 PPgp	wpp2015plusMig	R package for modified WPP2015 data derived using probabilistic migration
 PPgp	wppExplorer	wppExplorer R package
+PPgp	wppPlusMigExplorer	Similar package to wppExplorer, but uses data from wpp2015plusMig
 PabloCapilla	incR	Development of an R package for the analysis of avian incubation data and patterns.
 PabloMBooster	SISESATools	No description or website provided.
 PacificBiosciences	R-pbh5	A library for accessing data in HDF5 files produced by Pacific Biosciences sequencing machines
@@ -2142,6 +2149,7 @@ ataudt	chromstaR	Combinatorial and differential ChIP-seq analysis in R
 ataudt	chromstaRData	Example files for the chromstaR package
 atbroman	neqtl	Tools for analyzing expression QTL by position on genome
 ateshkoul	KinematicAnalysis	The functions deal with all kinds of kinematic analysis
+ateshkoul	PredPsych	Predictive approaches to Psychology
 athompson-kz1991	StockObjects	Just Another Finance Package
 athompson1991	StockObjects	Financial analysis with R
 athompson1991	ZillowFunctions	Bare bones package for getting publicly available Zillow Data
@@ -2474,7 +2482,7 @@ brandseye	brandseyer	An R library that provides access to the social media data 
 braunm	bayesGDS	Functions for Braun and Damien (2015) Scalable Rejection Sampling for Bayesian Hierarchical Models
 braunm	sparseHessianFD	R package for estimate sparse Hessians
 braverock	PerformanceAnalytics	
-braverock	blotter	No description or website provided.
+braverock	blotter	
 braverock	factorAnalytics	
 braverock	quantstrat	No description or website provided.
 brbnci	pact	Predictive Analysis of Clinical Trials
@@ -3353,7 +3361,7 @@ dmpe	WufooR	API Wrapper for Wufoo.com
 dmpe	rbitly	R package for Bit.ly URL Service - the RBitly  Shorten, expand and acquire statistics for your bit.ly links
 dmpe	urlshorteneR	R package for many URL shortening service  Shorten, expand and acquire statistics for your links
 dmpe	wufoor	API Wrapper for Wufoo.com
-dmwelgus	MapChi	No description or website provided.
+dmwelgus	MapChi	
 dnegrey	blogr	Lightweight blog framework using R markdown
 dnegrey	spork	R package with a hodgepodge of useful of things
 dnusinow	snipeR	Software for Network Inference of Proteomics Experiments
@@ -3428,6 +3436,8 @@ drsimonj	Routine	An R package containing routine functions
 drsimonj	jacksonphd	Data from Simon A Jackson's PhD (2016)
 drsimonj	qrtenginer	R package for parsing and analysing QRTEngine data
 druid-io	RDruid	Druid connector for R
+ds4ci	Test2	Just another test
+ds4ci	dProf	Data Profile
 ds4ci	dplyrExamples	A series of data munging examples using Hadley's dplyr and friends.
 dschlaep	ecotoner	No description or website provided.
 dschlaep	sdm.nlu2016ss	No description or website provided.
@@ -3781,6 +3791,7 @@ f1kidd	fmlogit	Fractional Multinomial Logit using R
 fabian-s	RLRsim	R package for fast & exact (restricted) likelihood ratio tests for mixed and additive models
 fabian-s	spikeSlabGAM	R-package: Bayesian variable selection, model choice, and regularized estimation for (spatial) generalized additive mixed regression models via stochastic search variable selection with spike-and-slab priors.
 fabiogm	kmisc	No description or website provided.
+faccinig	Mqi	R package to facilitate queries in messy databases.
 fadouaem	vbd	No description or website provided.
 fairmiracle	AMOUNTAIN	Active modules for multilayer weighted gene co-expression networks: a continuous optimization approach
 fairmiracle	MODA	MOdule Differential Analysis for weighted gene co-expression network
@@ -3867,6 +3878,7 @@ fintzij	BDAepimodel	Tractable fitting of stochastic epidemic models via Bayesian
 fintzij	ECctmc	Simulating sample paths for endpoint-conditioned continuous time Markov chains.
 fintzij	stemr	Fit Stochastic Epidemic Models via Bayesian Data Augmentation
 fischuu	GeneticTools	The R-package GeneticTools is a loose collection of tools for the analysis of expression and genotype data, currently with main focus on eQTL and MDR analysis.
+fischuu	Luke	R-package to create pipeline scripts
 fischuu	REPPlab	An R Interface to EPP-lab
 fischuu	hoardeR	R-package for information retrieval from NCBI databases, with main focus on Blast.
 fish-ecol	fish.ecol	iucn_index package repository
@@ -4030,6 +4042,7 @@ ge11232002	latticeExtra	Update horizonplot
 geanders	countytimezones	
 geanders	futureheatwaves	Functions to Identify and Characterize Heatwaves in Climate Projections
 geanders	hurricaneexposure	Functions to Create County-level Time Series of Hurricane Exposure
+geanders	hurricaneexposuredata	
 geanders	weathermetrics	No description or website provided.
 geanes	kidnapr	Purpose-built app to collect data for future inclusion in KidStats.
 geanes	kidstats	Shiny application to make sub-adult age and sex estimations based on long-bone measurements using MARS and FDA models.
@@ -4389,6 +4402,7 @@ hirenj	ggsequence	ggplot2 sequence alignments
 hirenj	knoter	Knitr wrapper to produce OneNote API friendly output
 hirenj	reproR	Wrap up git operations in R to track projects
 hkasahar	normalregMix	normalregMix R-package
+hly89	synergyfinder	
 hmalmedal	readfdb	Read FDB Files
 hmalmedal	stringaddins	RStudio add-ins for manipulating strings
 hmenag1	hmUtils	Utilities for R data management and statistical analyses
@@ -4558,7 +4572,7 @@ igraph	rigraph	igraph R package
 ijlyttle	bsplus	Shiny and Rmarkdown addons to Bootstrap 3
 ijlyttle	shinypod	Implementation of shiny modules
 ijlyttle	vembedr	Functions to Embed Video in HTML
-ikkyle	Imisc	Watch
+ikkyle	Imisc	
 ikoiko88	ggwordcloud	A package contains a new geom named geom_word_cloud to visualize word cloud with ggplot2
 ikwak2	MTaSPUs	Multiple-trait aSPU test based on GWAS summary statistics.
 ikwak2	aSPU	An R package for adaptive sum of powered score test(ASPU) in genetic association studies.
@@ -4573,6 +4587,7 @@ imbforge	encodeChIPqc	No description or website provided.
 imminfo	tcr	tcR: an R package for immune receptor repertoire advanced data analysis.
 imouzon	SASnatch	R and SAS working together through knitr
 imouzon	usefulR	A personal R package
+inbo	bird-tracking-etl	ETL for UvA-BiTS tracking data
 inbo	multimput	multimput is an R package that assists with analysing dataset with missing values using multiple imputation.
 inbo	uva-bits-etl	ETL for UvA-BiTS tracking data
 influxdb	influxdb-r	R library for InfluxDB
@@ -4690,6 +4705,7 @@ jamesthomson	SpotifyAPI	R package containing a series of functions that access t
 jamesware	knitauthors	R package to compile & knit scientific author & affiliation lists
 jamesyili	rTensor	rTensor v1.2
 janantos	readSSAS	SSAS connector for R
+jandob	ccf	Canonical Correlation Forest
 jandziak	textmining	Google Summer of Code -Integration text mining and topic modelling tools for R
 jandziak	tmpTm	temporary repository for text mining
 jangorecki	Rbitcoin	R & bitcoin integration
@@ -4728,6 +4744,7 @@ jarioksa	natto	An extreme vegan package of random, experimental and alien code
 jarodmeng	bigrqueryext	Extension to the bigrquery package
 jaroyle	oSCR	oscar
 jarrodolson	StravaR	A simple package to provide access to Strava's REST API and convert into R Structures.
+jarutis	smoothr	
 jasdumas	dumas	The Personal R Package of Jasmine Dumas 📦 
 jasdumas	shinyGEO	Gene Expression Omnibus Analysis with Shiny - 
 jasenfinch	MSMSproc	Spectral processing of tandem mass spectrometry data
@@ -4862,6 +4879,7 @@ jellily	PCAseq
 jelsema	RRSM	Methods for reduced rank spatial models.
 jemus42	qmtut	Small R package for teaching purposes in undergrad psychology
 jemus42	tRakt	R package containing functions to pull data from trakt.tv
+jenfb	bkmr	Bayesian kernel machine regression
 jenniferthompson	ClusterBootMultinom	A suite of functions to streamline multinomial logistic regression using clustered bootstrapping, including calculating predicted probabilities and their 95% confidence limits.
 jennybc	bingo	Generate Bingo cards with R.
 jennybc	candy	candy survey data
@@ -5190,6 +5208,7 @@ jrhammond	phoenixNet	Gather, munge, and convert Phoenix event data into daily ev
 jrklasen	relMM	Mixed Models with relationship matrices in R
 jrklasen	relationshipmm	Mixed Models with relationship matrices in R
 jrminter	rAnaLab	Helper functions for analytical scientists - especially particle size analysis.
+jrminter	rEDS	process X-Ray EDS date with R using S4 classes
 jrnold	SocSciData	No description or website provided.
 jrnold	ggthemes	ggplot themes and scales
 jrnold	marfx	
@@ -5749,6 +5768,7 @@ lengning	EBSeqHMM	Watch
 lenz99-	svmod	Search small somatic structural variations in tumor/normal exome data
 leobarone	bRasilLegis	
 leocbc	phenability	An alternative to carrying out phenotypic adaptability and stability analyses, taking into account nonparametric statistics. Can be used as a robust approach, less sensitive to departures from common genotypic, environmental, and GxE effects data assumptions (e.g., normal distribution of errors). https://cran.r-project.org/web/packages/phenabili…
+leoluyi	CRMaddress	
 leoluyi	EOLembrainToolbox	EOLembrainTools
 leoluyi	address_crawler	
 leonawicz	rvtable	Random Variable Data Tables
@@ -5850,7 +5870,7 @@ lpantano	myRfunctions	some functions that I use to increase productivity and rep
 lpetito	groupedCS	Files needed to build R package groupedCS. Code written to facilitate simulations in paper "Misclassified Group Tested Current Status Data"
 lrutter	ggenealogy	R package for visualizing genealogy datasets
 lshatkin	HorsePackage	Github for the package we are creating about horse racing
-lsoetens	Contactviz	No description or website provided.
+lsoetens	Contactviz	Contactviz - shiny app to visualize contact tracing data
 lsu2010	myRcode	No description or website provided.
 ltierney	Rpkg-proftools	Rewrite of proftools
 ltjohnson	grade	R package, used for grading student responses to Moodle "Remote Processed Questions".
@@ -5873,6 +5893,7 @@ lucusadv	chartr	chartr is a package for R aimed at making charts with detailed a
 lucymli	GenBank	No description or website provided.
 lucymli	LucyR	Frequently used custom functions
 ludovikcoba	rrecsys	
+luismurao	nichetoolbox	The package aims to facilitate the process of building niche models and estimate the species distributions.
 luisvalesilva	hwglabr	Hochwagen Lab R package
 lukaszdaniel	r2rflow	Automatically exported from code.google.com/p/r2rflow
 lukejharmon	netphy	No description or website provided.
@@ -6075,7 +6096,7 @@ mcanouil	myScriptsMickael	My personnal scripts (utils)
 mcanouil	snpEnrichment	Implements classes and methods for large scale SNP enrichment analysis (e.g. SNPs associated with genes expression in a GWAS signal)
 mccreigh	rwrfhydro	A community-contributed tool box for managing, analyzing, and visualizing WRF Hydro (and HydroDART) input and output files in R.
 mccurdyc	mrstudyr	A tool for retrospectively studying mutant reduction strategies in an attempt to reduce the cost of mutation testing.
-mcdelaney	packMatt	No description or website provided.
+mcdelaney	packMatt	
 mclark--	lazerhawk	An R package of miscellaneous functions.
 mclements	rstpm2	An R package for generalised survival models
 mcomas	mixpack	mixpack: a package for mixture components analysis
@@ -6183,6 +6204,7 @@ metagraf	rHighcharts	An R wrapper for Highcharts JS
 metagraf	rVega	An R wrapper for Vega
 metinbulus	designCRT	
 metinbulus	irtDemo	
+metinbulus	irtDemo-0.1.1	
 metno	esd	An R-package designed for climate and weather data analysis, empirical-statistical downscaling, and visualisation.
 mevers	RNAModR	Repository for R package RNAModR
 mewo2	medley	A system for blending regression models in R
@@ -6419,6 +6441,7 @@ mskilab	JaBbA	MIP based joint inference of copy number and rearrangement state i
 mskilab	bamUtils	No description or website provided.
 mskilab	ffTrack	GenomicRanges based R class for fast, out-of-core memory access and storage of numeric and character data that is a function of genomic position.
 mskilab	fish.hook	R package for applying Gamma-Poisson regression to identify statistical enrichment or depletion of somatic mutations in regions after correcting for genomic covariates.
+mskilab	gChain	R class for representing composable syntenic mappings between coordinates of 'omes and allowing nimble lift-over of genomic features and signals through these mappings within a GenomicRanges based framework.
 mskilab	gTrack	R package for visualizing complex and multi-track 1D and 2D genomic data in GenomicRanges framework
 mskilab	gUtils	Utility functions to extend and optimize GenomicRanges functionality.
 mskilab	skidb	Reference data utilities for mskilab
@@ -6923,6 +6946,7 @@ philipmgoddard	FUNctions	No description or website provided.
 philipmgoddard	glmPG	No description or website provided.
 philippechataignon	dplyrnz	R dplyr SQL backend for Netezza using RODBC
 philippstats	GAMBoostVis	Visualisation package for R package GAMBoost (Likelihood-Based Boosting)
+philippstats	RRmisc	RRmisc
 phillc73	abettor	An R package for connecting to the online betting exchange Betfair, via their API-NG product, using JSON-RPC.
 phillc73	backblazer	R package for Backblaze's B2 API
 phillc73	rinspace	R In Space: A collection of R functions returning interesting stuff from space
@@ -6930,6 +6954,7 @@ phillc73	sqldf2	A faster R package replacement for sqldf. Maybe.
 philliplab	EpitopeMatcher	A package that can be used to find out how well the epitopes in a patient's virus' will be recognized by the HLA's present in the patient.
 philmikejones	heateat	Heat or Eat
 philmikejones	townsendr	Townsend Material Deprivation Score - 2011 Data
+phively	wranglR	My most-used R scripts for data wrangling, diagnostics, and the like
 phonixor	readODS	read ODS files into R as data.frames
 phraber	lassie	Select sites and sequences from a serially sampled alignment
 phraber	meta-lass	This provides an interactive shiny interface to the LASSIE package.
@@ -7103,6 +7128,7 @@ qutang	mhealthformat-support-r	R package to create, manipulate and visualize sen
 qutke	qutke	R library for Qutke
 qutke	ruibe	用于对外经济贸易大学金融培训的R包
 qxde01	Rdouban	获取豆瓣网评论数据的R接口
+r-hub	citest	Test R package and repo for the r-hub CI
 r-hub	sysreqs	R package to install system requirements
 r-net-tools	net-basic	Network basic functions
 r-net-tools	net-security	Network functions for sysadmins and security needs
@@ -7648,6 +7674,7 @@ roqua	autovarCore	Automated Vector Autoregression Models and Networks
 roqua	zelfiAutovar	Zelfi script for running Autovar
 rosette-api	R-Binding	R client binding for the Rosette API
 royfrancis	pophelper	An R package to analyse and visualise output from softwares such as STRUCTURE, fastSTRUCTURE, TESS and ADMIXTURE.
+royr2	plotlyvis	plotlyvis
 roywilsonLinc	gbmFns	Helper functions for gbm modelling
 roywilsonLinc	l1tfplus	Functions for fitting l1 trend filtering
 rparrish	GAMUT	R Functions that support the GAMUT database.
@@ -7698,6 +7725,7 @@ rstudio	rstudioapi	Safely access rstudio's api (when available)
 rstudio	shiny	Easy interactive web applications with R
 rstudio	shinygadgets	No description or website provided.
 rstudio	shinythemes	Themes for Shiny
+rstudio	sparkapi	
 rstudio	tufte	Tufte Styles for R Markdown Documents
 rtdists	rtdists	RT dsitributions in R
 rtelmore	ballr	An R API for basketball-reference.com
@@ -7913,6 +7941,7 @@ setempler	venntables	R package to generate Venn diagram sets and plot them
 seth-ament	FootprintFinder	No description or website provided.
 sethmcg	climod	R package for working with climate model data
 sewardlee337	finreportr	R package - Financial Data from U.S. Securities and Exchange Commission
+sewardlee337	zhangyimou	R Package - Zhang Yimou Color Palettes
 sfcheung	lstatdemo	Demonstrations, usually shiny apps, for learning statistics
 sfeuerriegel	SentimentAnalysis	Dictionary-based sentiment analysis
 sfirke	janitor	simple tools for data cleaning in R
@@ -8019,6 +8048,7 @@ sjmgarnier	viridis	Implementation of the Matplolib 'viridis' color map in R
 sjmgarnier	viridisLite	Implementation of the Matplolib 'viridis' color map in R (lite version)
 sjoerdvds	crtests	Classifier and regression tests
 sjoerdvds	rudone	Notifications on R code completion
+sjoshistrats	JuiceBox	R package designed to help perform cross validation and grid-search optimization for custom machine learning processes and pipelines in a multicore fashion.
 skardhamar	rga	R Google Analytics
 skembel	picante	R tools for integrating phylogenies and ecology
 skgrange	ceilr	R package to help deal with ceilometer data
@@ -8098,7 +8128,7 @@ soodoku	goji	R Package With Functions for Generalized Variance, Formatting Strin
 soodoku	guess	Adjust naive estimates of learning for guessing
 soodoku	outsource	outsource: Create Distributed Coding Tasks from R
 soodoku	recognize	Assess OCR quality: Compare OCR to human transcription
-soodoku	tuber	Access YouTube from R
+soodoku	tuber	🍠 Access YouTube from R
 soodoku	virustotal	R client for the Virustotal Public API. Virustotal is a Google service that analyzes files and URLs for viruses etc.
 sooheang	PythonR	rPython with jsonlite pacakge
 sor16	ggKaplanMeier	A general method to generate Kaplan Meyer plots using ggplot2
@@ -8269,6 +8299,7 @@ sushilashenoy	h5matrix	R package to making using rhdf5 more like bigmemory.
 sushilashenoy	zoom.plot	zoom.plot R package
 susjoh	crimaptools	R Library for preparing input files, running, and parsing output for the programme CRI-MAP.
 susjoh	recomb.landscape	
+suzhesuzhe	GEM	
 svanbelle	multiagree	Package to compare dependent and independent multilevel agreement measures
 svannoy	lsr-package	No description or website provided.
 svannoy	table1	Creates a Table of Descriptives Suited for MS-Word
@@ -8618,6 +8649,7 @@ tpepler	RcmdrPlugin.harbin	Rcmdr Harbin Plug-In
 tpepler	theolib	Collection of auxilliary functions for R
 tpetzoldt	FAmle	R package for maximum likelihood fitting of distributions to hydrological time series
 tpoisot	digitize	A R package to extract data from scatterplots
+tpq	codenames	An R package that implements a Codenames-like word association game complete with AI
 tpq	exprso	An R package to rapidly implement machine learning algorithms on genomic data
 tpq	miSciTools	An R package to simplify miscellaneous and cumbersome bioinformatic pipelines
 tpq	propr	An R package to calculate proportionality between vectors of compositional data
@@ -8722,7 +8754,7 @@ tylerhether	HMMancestry	R package using the Forward-Backward algorithm to infer 
 tylerhether	fbgenotyper	R package using the Forward-Backward algorithm to infer genotypes, recombination hotspots, and gene conversion tracts from low-coverage next-generation sequence data.
 tylermorganwall	skpr	No description or website provided.
 tz-lom	Resonance-Rproj	
-tz-lom	ResonanceEngine	No description or website provided.
+tz-lom	ResonanceEngine	
 tzerk	ESR	R package 'ESR' for plotting and analysing ESR spectra in dating applications
 tzerk	RLumShiny	A collection of shiny applications for the R package Luminescence.
 tzerk	gammaSpec	A collection of functions to analyse gamma spectra
@@ -8832,7 +8864,7 @@ vodkatad	roar	http://www.bioconductor.org/developers/release-schedule/
 vogel1716	metaview	No description or website provided.
 vojtechhuser	rcdisc	rcdisc package with sample files for one study
 volkerschmid	bioimagetools	
-vonjd	OneR	This R package implements the OneR classification algorithm with enhancements for sophisticated handling of missing values and numeric data together with extensive diagnostic functions.
+vonjd	OneR	This R package implements the One Rule (OneR) Machine Learning classification algorithm with enhancements for sophisticated handling of missing values and numeric data together with extensive diagnostic functions.
 vovkaOst	alhe	ABC algorithm using metaheuristic pattern. Written using Rstudio
 vpnagraj	rrefine	r open refine api client package
 vpnagraj	shinylist	shinylist htmlwidget for rendering HTML lists from R output in Shiny
@@ -8867,6 +8899,7 @@ wahani	saeRobust	Robust Small Area Estimation
 wahani	saeRobustTools	Tools for Fitting Robust Mixed Models in Small Area Estimation
 wahani	tidyrS4Warning	temp repo to test dependencies
 waissbluth	skewttest	Bootstrapped skewness-adjusted t-test
+wakuteka	exampler	R package example
 waldgruber	bsc	
 waldronlab	BiocInterfaces	
 waldronlab	TCGAmisc	No description or website provided.
@@ -8890,7 +8923,7 @@ wang114	foofactorsran	Make factors less annoying
 wangbokai	bokaiw3	1st push
 wangxj524	RstudioAddins	No description or website provided.
 wangxj524	insertSymbol	No description or website provided.
-wangyuchen	MethyBayes	No description or website provided.
+wangyuchen	MethyBayes	
 wangyuchen	sppmix	Mixture models for spatial point pattern
 wangzhishi	test	test
 war-on-ice	nhlscrapr	No description or website provided.
@@ -8995,6 +9028,7 @@ wkostelecki	newpackage	description
 wl5	wfaculty	No description or website provided.
 wlandau	downsize	Easily scale down the size of datasets, etc. to run downsized workflows for debugging and testing.
 wlandau	fbseq	A fully Bayesian, CUDA-accelerated method of analyzing RNA-seq data
+wlandau	fbseqComputation	
 wlandau	fbseqDebug	debug fbseq
 wlandau	fbseqStudies	comparison study for fbseq
 wlandau	parallelRemake	R package to help with reproducible R workflows.
@@ -9161,7 +9195,7 @@ yoni	git_history_visualizer	Summarizes and visualizes lines of code for differen
 yoni	r_we_the_people	R package for working with the We The People petition data.
 youjin1207	fdrreg	No description or website provided.
 your-highness	normR	Normalization and difference calling for Next Generation Sequencing (NGS) data via joint multinomial modeling.
-ypriverol	pIR	Comparison of different isoelectric point algorithms for proteins and peptides
+ypriverol	pIR	Estimation of isoelectric point of peptides and proteins using Support vector machines
 yrochat	twitterplayssnake	Plays snake collectively on Twitter
 yrosseel	lavaan	an R package for structural equation modeling and more
 ys-amms	bionexr	an R package for integrative network-based analysis of gene somatic mutation and gene expression data to identify cancer drivers
@@ -9261,6 +9295,7 @@ zhilongjia	GeneExpressionSignature	Gene Expression Signature based Similarity Me
 zhilongjia	PAGE	Parametric Analysis of Gene Set Enrichment
 zhilongjia	cogena	co-expressed gene-set enrichment analysis
 zhilongjia	scorePage	scorePage
+zhouyan	ggtikz	Plotting utilities using ggplot2 and tikzDevice
 zief0002	QME	Quantitative Methods in Education R package
 zieglema	ClinicalSig	Functions for clinical significance
 ziyanyin	DEEE	An implementation of Differentially Expressed genes analysis and Equivalently Expressed genes analysis.
