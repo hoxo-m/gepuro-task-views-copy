@@ -921,6 +921,7 @@ Looping027	far	R package for modelization of Functional AutoRegressive Processes
 Losses	ls4pR	This package WILL include most of the function you'll use during your university study.
 LucasDowiak	dynocopula	No description or website provided.
 Lucaweihs	SEMID	No description or website provided.
+Lucaweihs	sBIC	Computing the Singular Bayesian Information Criterion
 Luddo94	mySnps	No description or website provided.
 Luis-Sanguiao	StQT	Class of transformations for StQ objects
 LuisLauM	LBR	No description or website provided.
@@ -1162,6 +1163,7 @@ OakleyJ	SHELF	Tools to Support the Sheffield Elicitation Framework (SHELF)
 OnroerendErfgoed	onroerenderfgoedtheme	ggplot2 theme
 OpenGenderTracking	globalnamedata	Tools to download and process name data from various sources.
 OpenMx	OpenMx	Team repository for the OpenMx project:
+OscarBrock	gCrisprTools	An R/Bioconductor package for the comprehensive analysis of pooled CRISPR/Cas9 or shRNA screening data.
 OskarHansson	strvalidator	Initial push
 OuhscBbmc	OuhscMunge	Data manipulation operations
 OuhscBbmc	REDCapR	R utilities for interacting with a REDCap data system (http://www.project-redcap.org/)
@@ -1705,6 +1707,7 @@ USGS-R	EGRET	An R-package for the analysis of long-term changes in water quality
 USGS-R	EGRETci	A bootstrap method for estimating uncertainty of water quality trends
 USGS-R	EflowStats	Calculates Hydrologic Indicator stats and fundamental properties of daily streamflow for a given set of data
 USGS-R	GcClust	No description or website provided.
+USGS-R	HUCAgg	HUC aggregator
 USGS-R	SampleSplitting	package for use in splitting flow-weighted samples
 USGS-R	USGSHydroOpt	Tools for hydrologic optical analysis
 USGS-R	WREG	Develops regional estimation equations for streamflow characteristics that can be applied at a ungaged basins.
@@ -1762,6 +1765,7 @@ Ward9250	testRpkg	A simple package for testing, developing, and provoding reprod
 WastlM	polyCub	An R package for numerical integration over polygonal domains
 WetRobot	popEpi	An R package for epidemiological analysis using population data
 WilCrofter	bondR	No description or website provided.
+Willdata	tigerhitteR	A R package that provides functions to do data pre-process for time series analysis.
 WilliamCooper	Ranadu	R-based Analysis for NCAR-Aircraft-Data Users
 WinVector	QSurvival	Quasi observation based survival package for R.
 WinVector	WVPlots	Pre-packaged plots in R (on top of ggplot2)
@@ -2569,6 +2573,7 @@ boettiger-lab	shea	Watch
 boettiger-lab	shea-research	Applications of non-parametric Bayesian inference to the optimal control of ecological systems
 bogdanrau	askchisne	R package that connects to the AskCHIS NE API.
 bogdanrau	shinyBuilder	No description or website provided.
+bogfossil	AccumC-package	
 bokeh	rbokeh	R interface to Bokeh http://hafen.github.io/rbokeh/
 bolimorales	RegUtils	No description or website provided.
 bomeara	GREpercentile	A simple function to convert GRE scores to percentiles. IN NO WAY AFFILIATED WITH ETS.
@@ -3033,6 +3038,7 @@ codymarquart	RAnalytics	No description or website provided.
 coffeemuggler	eseis	R-package
 cogtepsum	DDP_Assignment	repository for Developing Data Products course ShinyApp project
 cokelly	collocateR	Generates a list of collocates with significance tests for keywords in a corpus.
+coldfir3	moko	repository for the moko package
 cole-brokamp	CB	My personal R package
 cole-brokamp	RFinfer	R package for generating prediction and prediction variances from random forests.
 cole-brokamp	aiRpollution	R package for assessing elemental PM exposure in Cincinnati
@@ -3312,6 +3318,7 @@ david-salgado	RepoTime	An R package to implement a notation for usual natural ti
 david-salgado	RepoUtils	Set of tools implementing shell commands to manage Statistics Spain microdata repository
 david-salgado	StQ	An R package to implement a simple key-value structure on data sets
 david-ti	wrightmap	Wright Map: IRT item-person map with ConQuest integration
+davidaarmstrong	SensMiceDA	
 davidaarmstrong	damisc	Miscellaneous R functions for Presenting and Interpreting Regression Models
 davidaarmstrong	factorplot	R software for visualizing pairwise comparisons
 davidaknowles	eagle	Detect environment effects on ASE
@@ -3870,6 +3877,7 @@ emanuelserbanoiu	demo-licenta	No description or website provided.
 emelianova	tinyr	tiny moss ecology study
 emeryyi	glmvsd	
 emeryyi	msda	
+emeryyi	soil	
 emilopezcano	SixSigma	SixSigma R package
 emilyborsting	nsqiputils	Utility functions for working with the ACS NSQIP dataset using R.
 emiruz	automata.r	Flexible state machine builder and associated tools for R
@@ -4261,6 +4269,7 @@ geanders	countytimezones
 geanders	futureheatwaves	Functions to Identify and Characterize Heatwaves in Climate Projections
 geanders	hurricaneexposure	Functions to Create County-level Time Series of Hurricane Exposure
 geanders	hurricaneexposuredata	
+geanders	stormwindmodel	Model Hurricane Wind Speeds
 geanders	weathermetrics	No description or website provided.
 geanes	kidnapr	Purpose-built app to collect data for future inclusion in KidStats.
 geanes	kidstats	Shiny application to make sub-adult age and sex estimations based on long-bone measurements using MARS and FDA models.
@@ -5082,6 +5091,7 @@ jdossgollin	cpcRain	R package to access, process, and store data from the CPC Un
 jdstorey	edge	R package for identifying differentially expressed genes from genome-wide gene expression profiling studies.
 jdstorey	qvalue	R package to estimates q-values and false discovery rate quantities.
 jdwilson4	ESSC	This folder contains the ESSC method for Community Extraction in R
+jdwilson4	NetSurv	An R package for network surveillance via the degree corrected stochastic block model
 jean997	cfdrSims	
 jean997	jadeSims	
 jean997	jadeTF	R package for Joint Adaptive Differential Estimation (JADE)
@@ -6360,6 +6370,7 @@ matthiasheinig	seqQTL	Toolset for preprocessing sequencing based traits for QTL 
 matthieu-foucault	RdeveloperTurnover	No description or website provided.
 matthieugomez	statar	R package for data munging
 mattiaciollaro	MeanShift	R package to perform clustering of vector data and functional data using the mean shift algorithm
+mattmills49	helpers	
 mattocci27	LeafArea	An interface for the image processing program ImageJ, which allows a rapid digital image analysis for particle sizes.
 mattocci27	mglmn	Tools for univariate and multivariate generalized linear models with model averaging and null model technique.
 mattphan	Age-Adjusted-Death-Rates	No description or website provided.
@@ -6549,7 +6560,7 @@ mhtess	rwebppl	RWebPPL, an R interface to Webppl http://webppl.org
 mi2-warsaw	GOpro	No description or website provided.
 mi2-warsaw	profilesGO	No description or website provided.
 michaelgavin	htn	No description or website provided.
-michaelgavin	tei2r	No description or website provided.
+michaelgavin	tei2r	
 michaelgill1969	coursera-data-science-capstone-assignment-final-project-submission	This package, in partial fulfillment of the requirements of the Coursera course, "Data Science Capstone", contains functions for an auto-completion model that predicts the next word to be typed based on a word or phrase previously typed.
 michaelgruenstaeudl	CommT_Code	R code for the Community Tree project
 michaelhallquist	MplusAutomation	The MplusAutomation package leverages the flexibility of the R language to automate latent variable model estimation and interpretation using Mplus, a powerful latent variable modeling program developed by Muthen and Muthen (www.statmodel.com). Specifically, MplusAutomation provides routines for creating related groups of models, running batches…
@@ -6701,6 +6712,7 @@ moosik	snorm	R package with functions to add supervised exploration of data stru
 morning-consult	rheumar	Conjoint Analysis in R
 morningfin	sample-R-package	No description or website provided.
 moshagen	multiTreeR	R interface for multiTree
+mosscoder	crustCover	crustCover
 mowequa	imrchart	Individuals and Moving Range Chart
 mpadge	hotspotr	🔴 R package to compare spatial structure of hotspots with neutral models
 mpadge	osmplotr	R package to produce visually impressive customisable images from OpenStreetMap data
@@ -6756,7 +6768,7 @@ msaharia	pincodes	All India directory of PIN codes
 msaidf	myaddins	No description or website provided.
 msaidf	robusta	R package for easy reporting robust standard error in regression summary table
 msaul	msaul	Michael C. Saul's Personal R Package
-mschubert	clustermq	An R package to send function calls as LSF jobs (and maybe others)
+mschubert	clustermq	An R package to send function calls as LSF jobs (and maybe other schedulers)
 msereno	lira	R-package for Bayesian linear regression in astronomy
 mskcc	facets	Algorithm to implement Fraction and Copy number Estimate from Tumor/normal Sequencing.
 mskilab	Flow	R-based genomics workflow management
@@ -6796,6 +6808,7 @@ mukul13	ROpenWeatherMap	R package to get weather data using OpenWeatherMap API
 mukul13	RYandexTranslate	R package to translate text using Yandex Translate API
 mukul13	rechonest	R Interface to access Echo Nest API
 multiphrenic	IncentiveAnalysis	Tools for Incentive Analysis and Reward Modeling in R
+multiphrenic	obfuscateR	Data Masking Package for R
 murrn	Average	Counting average age using R
 muschellij2	WhiteStripe	WhiteStripe Package
 muschellij2	dcm2niir	R Package Container for dcm2nii
@@ -6805,6 +6818,7 @@ muschellij2	fslr	FSL-R Interface package
 muschellij2	googleCite	Google Citation Scraper
 muschellij2	ichseg	ICH Segmentation of CT scans
 muschellij2	matlabr	R Package For Calling Matlab Through System
+muschellij2	msseg	MS Lesion Segmentation Package
 muschellij2	oro.nifti	Branch of oro.nifti, adding in fslr helper functions
 muschellij2	papayar	Wrapper for Papaya viewer to R
 muschellij2	rscopus	
@@ -7632,7 +7646,7 @@ rdrr1990	bigKRLS	bigKRLS combines bigmemory & RcppArmadillo (C++) for speed into
 rdshankar	RImmPort	RImmPort: Enabling ready-for-analysis immunology research data
 reactorlabs	testgenthat	Simple package used to describe functionality of genthat package.
 realAkhmed	mixpanelR	R interface for MixPanel data export API
-rebeccahch	precision	
+rebeccahch	precision	an R package allowing users to conduct a simulation study for molecular classification with a unique pair of Agilent microRNA array datasets
 rebeccahch	precisiondata	
 rebelrebel04	kpHelpr	R helper functions
 redadmiral	pooltalk	No description or website provided.
@@ -7753,7 +7767,7 @@ richfitz	ring	💍 Ring buffers
 richfitz	rrq	🏃🏃🏃 Lightweight Redis queues
 richfitz	seagull	🐦 Portable file locking
 richfitz	stegasaur	Steganography for R
-richfitz	storr	Object cacher for R
+richfitz	storr	📦 Object cacher for R
 richfitz	storr.bdb	Berkeley DB driver for storr, using RBerkeley
 richfitz	storr.server	No description or website provided.
 richfitz	syncr	🔃 R interface to rsync
@@ -8059,6 +8073,7 @@ ropenscilabs	vcr	Record HTTP calls and replay them
 roqua	autovarCore	Automated Vector Autoregression Models and Networks
 roqua	zelfiAutovar	Zelfi script for running Autovar
 rosette-api	R-Binding	R client binding for the Rosette API
+roszenil	chromploid	chromosome number and ploidy change evolution in R
 royfrancis	pophelper	An R package to analyse and visualise output from softwares such as STRUCTURE, fastSTRUCTURE, TESS and ADMIXTURE.
 royr2	plotlyvis	plotlyvis
 roywilsonLinc	gbmFns	Helper functions for gbm modelling
