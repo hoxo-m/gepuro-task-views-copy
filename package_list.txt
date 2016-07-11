@@ -79,6 +79,7 @@ AndersenLab	wormbase-api	No description or website provided.
 Anderson-Lab	ComplementaryDomainPrioritization	Heterogeneous Domain Prioritization and Filtering Demonstrated on Proteogenomic Datasets
 AndreaCirilloAC	ramazon	run your shiny App on Amazon AWS launching a function.
 AndreaCirilloAC	updateR	update your R version in a breeze ( on OSX)
+AndreasChristianHill	forestinventory	forestinventory
 AndrewLJackson	SIBER	ellipse and convex hull fitting package for stable isotope data
 AndrewLJackson	siar	Stable Isotope Analysis in R - package
 AndrewLJackson	tRophicPosition	estimate trophic position using SIA
@@ -304,6 +305,7 @@ CoGAPS	CoGAPSseq	No description or website provided.
 Cogitos	pphy	R packages to fit data from a psychophysic experiment, extract main indexes (e.g. slopes) and draw graphs
 Cogitos	predata	R packages to grab raw data in different csv files into one data frame and to compute descriptive statistics including standard errors corrected for within-subject designs
 ColinFay	rgeoapi	This package is designed to request informations from the french GéoAPI inside R — https://api.beta.gouv.fr/api/geoapi.html
+CollinErickson	UGP	Universal GP models - an R package
 ColoradoDemography	codemogAPI	No description or website provided.
 ColoradoDemography	codemogShiny	No description or website provided.
 ColumbiaCDS	DEEPAnalysis	R analysis tools for DEEP (Dynamic Experiments for Estimating Preferences).
@@ -859,6 +861,7 @@ KPdir	foofactors	Make factors less annoying
 KWB-R	kwb.hantush	Calculation of groundwater mounding beneath an infiltration basin
 KWB-R	kwb.utils	some basic functions used by other kwb packages
 KalyanAkella	snow	My changes to the R SNOW package
+KanduriC	GenRank_updated	updated GenRank just for build checking
 KarchinLab	cancerSeqStudy	Analysis of statistical power and false positives for cancer exome sequencing studies
 Karel-Kroeze	MultiGHQuad	Multidimensional Gauss-Hermite quadrature in R
 Karel-Kroeze	ShadowCAT	Multidimensional Computer Adaptive Testing with the Shadow Testing routine
@@ -1653,6 +1656,7 @@ TaylorAndrew	atPlot	Various functions for plotting data
 TaylorAndrew	atPlotAddins	Rstudio Addins for Exploratory Visualization
 TaylorAndrew	atPostAnalyze	Functions for post-hoc analysis: pairwise comparisons, pvalues, etc
 TaylorAndrew	atPrepAnalyze	Helpful functions for checking distributions and assumptions. Provides output useful for atAnalyze.
+TaylorAndrew	atProjectManage	Functions for managing projects and consistent commenting in code
 TaylorAndrew	atProjectManageAddins	Rstudio Addins for Managing Projects: Creating New Directories and Inserting Helpful Comments
 Teichlab	cellity	
 TenanATC	gas.sim	This is the public repo for the gas.sim R package to determine if two gas exchange measures exceed measurement error
@@ -1785,6 +1789,7 @@ WilliamCooper	Ranadu	R-based Analysis for NCAR-Aircraft-Data Users
 WinVector	QSurvival	Quasi observation based survival package for R.
 WinVector	WVPlots	Pre-packaged plots in R (on top of ggplot2)
 WinVector	vtreat	Variable treatment for R data frames
+XD-DENG	ECharts2Shiny	To embed interactive charts from ECharts into Shiny applications
 XD-DENG	Rtts	Watch
 XD-DENG	StockChina	This is a R package helping grab the real-time stock information in China market
 XSEDEScienceGateways	TAG	Text Analytics Gateway
@@ -2552,6 +2557,7 @@ biobits	bbreportr	Private R helpers using the pandoc knitr stack
 biologicalrecordscentre	rYoutheria	Access to YouTheria through R
 biostuff	CNVPanelizer	Reliable CNV detection in targeted sequencing applications
 biran1990	ssizeRNA	Sample Size Calculation for RNA-Seq Experimental Design
+bjoernkjoshanssen	structure-function	
 bjornerstedt	assist	Dialog box command help for Rstudio
 bjornerstedt	scbapi	
 bjornkopperud	slouchbtk	personal copy slouch
@@ -2792,7 +2798,7 @@ cardiomoon	moonBook2	moonBook2
 cargomoose	raptR	Rapid and Pretty Things in R : A shiny graphical user interface for your favourite ggplot graphics in R
 carinademel	RNAlife	No description or website provided.
 carleshf	loadxls	Wrapper of (R) XLConnect for fast and easy load of MS Exel files.
-carlganz	rintrojs	Wrapper of the intro.js library for shiny
+carlganz	rintrojs	Wrapper for the intro.js library for shiny
 carlganz	svrepmisc	
 carlise	laplaceR	Exploring data parallelism and optimization in R
 carlise	linearR	Exploring data parallelism and optimization in R
@@ -3442,6 +3448,7 @@ dennisprangle	gk	R package for the g-and-k distribution
 deployr	deployrUtils	Develop Portable R Code for Use with DeployR
 derek-corcoran-barrios	DiversityOccu	
 derek-damron	budget	Easy budgeting in R
+derek-damron	budgetr	Easy budgeting in R
 derek-damron	transform	Easy variable transformations in R
 derekcho	foofactors	Makes factors less annoying
 dereksonderegger	NPS	No description or website provided.
@@ -3813,6 +3820,7 @@ edzer	mnf	No description or website provided.
 edzer	mss	Watch
 edzer	rgdal2_travis	
 edzer	sf	
+edzer	sfr	simple features for R
 edzer	sp	Classes and methods for spatial data
 edzer	spacetime	Classes and methods for spatio-temporal data
 edzer	spnetwork	Spatial networks, using SpatialLines for edges
@@ -3965,6 +3973,7 @@ eribul	r2samplesize	Investigating the effect of sample size on R2 and RMSE
 ericgoolsby	Rphylopars	Phylogenetic Comparative Tools for Missing Data and Within-Species Variation
 ericgoolsby	phylocurve	No description or website provided.
 erichare	discreteRV	R Package for easy generation of Random Variables
+erichseamon	crop_indemnity	crop indemnity code
 erickramer	shiftr	No description or website provided.
 ericmkeen	bangarang	No description or website provided.
 ericnovik	introstats	Data and Functions for Statisitcs With R Book by Stinerock and Novik
@@ -4171,6 +4180,7 @@ fmikaelian	marketeR	The R package for online marketing analysts
 fnoorian	gramEvol	Grammatical Evolution for R
 focusenergy	GroveR	Hierarchical dependency management of objects in R, a la "make"
 foramashar	fashaR	R package with my functions
+foreverycc	AlleleSNP_Package	R package of allelesnp
 fortunatobianconi	methylkit	Automatically exported from code.google.com/p/methylkit
 fountainer	EigenReg	Eigenvalues regularized inverse covariance matrix estimation
 fountainer	fountainr	Learning how to write R package
@@ -4858,6 +4868,7 @@ ijlyttle	vembedr	Functions to Embed Video in HTML
 ikkyle	Imisc	
 ikoiko88	ggwordcloud	A package contains a new geom named geom_word_cloud to visualize word cloud with ggplot2
 ikosmidis	brglm2	Estimation and inference from generalized linear models using explicit and implicit methods for bias reduction
+ikosmidis	enrichwith	Methods to enrich various R objects with extra components
 ikwak2	MTaSPUs	Multiple-trait aSPU test based on GWAS summary statistics.
 ikwak2	aSPU	An R package for adaptive sum of powered score test(ASPU) in genetic association studies.
 ikwak2	funqtl	An R package for QTL mapping in function valued trait data
@@ -5036,7 +5047,7 @@ jarrodolson	StravaR	A simple package to provide access to Strava's REST API and 
 jarutis	smoothr	
 jasdumas	dumas	The Personal R Package of Jasmine Dumas 📦 
 jasdumas	shinyGEO	Gene Expression Omnibus Analysis with Shiny - 
-jasdumas	ttbbeer	An R Package for US Beer Statistics From TTB
+jasdumas	ttbbeer	An R Dataset Package for US Beer Statistics From TTB 🍺
 jasenfinch	MSMSproc	Spectral processing of tandem mass spectrometry data
 jasenfinch	OrbiFIEmisc	Miscellaneous functions for the analysis of FIE-HRMS data
 jasenfinch	OrbiFIEproc	An R package for processing FIE-HRMS data
@@ -5087,6 +5098,7 @@ jbryer	retention	Watch
 jbryer	sqlutils	Utilies for managing libraries of SQL queries.
 jbrzusto	sensorgnome-R-package	
 jburkhardt	RAdwords	Loading Adwords Data into R
+jburkhardt	RCriteo	Loading Criteo Campaign Data into R
 jburos	biostan	Materials for BioC-2016 workshop entitled "Introduction to Bayesian Inference using Stan with Applications to Cancer Genomics"
 jcapelladesto	geoRge	geoRge: a computational tool for stable isotope labelling detection in LC/MS-based untargeted metabolomics
 jcarlis3	ecoinfo	Assorted Tools for the Management and Analysis of Ecological Information
@@ -5460,6 +5472,7 @@ jonocarroll	githubtools	Tools to complement building and using R packages instal
 jonocarroll	githuburlcheckr	Scan a GitHub repository and check the validity (can connect) of all visible URLs
 jonocarroll	runkeepR	Extract, plot, and analyse Runkeeper(TM) data.
 jonotuke	catenary	R package for using catenaries
+jonotuke	examMarking	Code to do exam marking
 jonotuke	graphr	Code for random network estimation
 joranE	fiscrape	FIS Scraping Tools
 joranE	skierELO	ELO functions
@@ -5948,6 +5961,7 @@ krlmlr	condition	Missing parts of base R's wonderful condition system
 krlmlr	covr.dummy	No description or website provided.
 krlmlr	histmatch	Weighted histogram matching
 krlmlr	hms	A simple class for storing time-of-day values
+krlmlr	inlinedoc.example	inlinedoc demonstration of roxygen2 version 5
 krlmlr	kimisc	Kirill's miscellaneous functions
 krlmlr	lazyforward	Simplify maintenance of NSE-SE pairs
 krlmlr	mangow	Generate a Manhattan Distance problem from a Gower's distance problem
@@ -6385,6 +6399,7 @@ masonhinckley	middApril	Setting up R Package
 mastoffel	GCalignR	Simple peak alignment for gas-chromatography data in R
 mastoffel	inbreedR	R package for analysing inbreeding based on SNP and microsatellite data
 mastoffel	rptR	R package for repeatability estimation for Gaussian and non-Gaussian data
+mastoffel	sealABC	tools for the pinniped demography analysis
 mastropi	bwt	
 mastropi	envnames	R package: Track environment names
 mat3us2	testrepo	No description or website provided.
@@ -6407,6 +6422,7 @@ matthewclegg	egcm	Engle-Granger cointegration models in R
 matthewclegg	partialCI	R package for fitting the partially cointegrated model
 matthewcurrier	mattsforecaster	No description or website provided.
 matthewjay15	generalhoslem	
+matthewjay15	generalhoslem-v1.1.0	
 matthewjdenny	CCAS	A Statistical Model for Communication Networks
 matthewjdenny	GERGM	An R package to estimate Generalized Exponential Random Graph Models
 matthewjdenny	SpeedReader	High Performance Text Processing in R
@@ -7049,6 +7065,7 @@ noamross	quickscraper	An R package wrapping quickscrape, a node.js web scraper
 noamross	testdat	
 nobodyinperson	functionutils	R utilities to manipulate functions
 nobodyinperson	matrixutils	R utilities to manipulate matrices.
+nobodyinperson	wettRmast	R functions to handle standard Wettermast Hamburg data text files
 noemiandor	expands	Expanding Ploidy and Allele Frequency on Nested Subpopulations (expands) characterizes coexisting subpopulations in a single tumor sample using copy number and allele frequencies derived from exome- or whole genome sequencing input data.
 nolanlab	Rclusterpp	Memory efficient clustering in R for large datasets
 nolanlab	cytofCore	R package for working with CyToF data
@@ -7095,6 +7112,7 @@ nverno	mooseapp	Interactive app to visualize moosilauke data.
 nverno	moosedata	No description or website provided.
 nverno	moosegps	gps locations of plots etc.
 nverno	prisms	No description or website provided.
+nverno	rstuff	just stuff for doing tings
 nverno	seedlings	No description or website provided.
 nverno	seedsub	seedling and substrate data for moosilauke segments/transects/permanent plots
 nverno	seedsub.mas	seedling substrate master files
@@ -7548,6 +7566,7 @@ pvrqualitasag	rqudocuhelper	Document helper for Qualitas documents
 pwkraft	ArfimaMLM	Dev version of ArfimaMLM package
 pysgodfach	testpackage	testing 1,2,3
 pzawistowski	astar	No description or website provided.
+pzwiernik	LatentClass	Latent class models
 pzwiernik	StructuralEM	Structural EM algorithm for Gaussian latent tree models
 pzylstra	frame_r	R interface and support functions for FRAME: Fire Research and Modelling Environment
 qenvio	hicutils	A minimal R package with some useful functions for HiC data analysis
@@ -8562,6 +8581,7 @@ skranz	loginPart	A very simple login framework for shiny apps via email verifica
 skranz	rmdtools	Tools for RMarkdown
 skranz	shinyEvents	Use shiny with event handlers instead of reactivity
 skranz	shinyEventsUI	some shiny widgets (only work with a shinyEvents app)
+skranz	shinyPart	Framework for creating parts of a shinyApp
 skranz	shinyQuiz	Quiz widget for shiny events apps
 skuma18	rpacakge	No description or website provided.
 skurscheid	deepToolsUtils	a collection of R functions used for the supporting analysis of HTS-data with deepTools
@@ -8778,6 +8798,7 @@ stuchly	MetaMass	R package for MS meta-analysis
 stumash1	HorsePackage	
 stveep	crisp.icr	
 suiji	Arborist	Modular, extensible implementation of the Random Forest (TM) algorithm.
+sulaxd	YahooBidScrape	
 sumbose	iRF	iterative Random Forests (iRF): iteratively grows weighted random forests, finds interaction among features
 sumitrahman	perfman	to do the performance management analyses for HR
 sumprain	dbMapR	Package connecting Shiny with Database
@@ -8815,6 +8836,7 @@ swager	balanceHD	Approximately balanced estimation of average treatment effects 
 swager	randomForestCI	randomForestCI
 swarm-lab	GPSviewR	No description or website provided.
 swarm-lab	ROpenCV	Install OpenCV within R
+swarm-lab	ROpenCVLite	
 swarm-lab	editR	A Rmarkdown editor with instant preview
 swarm-lab	geneOptimQAD	A quick and dirty genetic algorithm
 swarm-lab	swaRm	A R package to process and analyze collective behavior data
@@ -9289,6 +9311,7 @@ uc-bd2k	KEGGlincs	Overlay KEGG pathway edges with data [L1000] in R and visualiz
 uc-bd2k	KOdata	Companion L1000 knock-out data set package intended for use with KEGGlincs
 ucd-cwee	energyintensity	R package for energy intensity calculations
 ucd-ipo	aip-analysis	Agricultural Field Trial Statistics Package
+ueno-tr	flysleep	
 ugcd	gait	R package to organize GAIT data
 ugcd	gaitTools	Tools to analyze GAIT
 ugcd	solarius	An R package to interface SOLAR
@@ -9784,6 +9807,8 @@ zarquon42b	Rvcg	R-package providing mesh manipulation routines from VCGLIB
 zarquon42b	mesheR	Meshing operations on triangular meshes (surface registration, selection, visualizations, etc.)
 zatonovo	fractalrock	Generate fractal time series with non-normal returns distribution
 zatonovo	futile.logger	A logging package in R similar to log4j
+zatonovo	futile.matrix	Tools for studying random matrices
+zatonovo	lambda.r	Functional programming in R
 zatonovo	lambda.tools	Data manipulation tools based on lambda.r
 zbeaver4	beavR	Re-usable R Functions from Past Projects
 zbwrnz	parkcluster	A refactored version of the clustering algorithm created by Park et al.
