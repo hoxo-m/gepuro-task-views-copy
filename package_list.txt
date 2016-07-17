@@ -326,6 +326,7 @@ ConorIA	senamhiR	A collection of functions to obtain Peruvian climate data in R.
 ConservationInternational	VitalSignsUtilities	No description or website provided.
 Conte-Ecology	conteStreamTemperature	Package for cleaning and analyzing stream daily stream temperature
 Conte-Ecology	zonalDaymet	Package developed to assign Daymet climate records to catchments.
+ConvergenceDA	visdom	Toolkit for analyzing small or large samples of Smart Meter data and estimating attributes of customers
 Corretx	corretxUtils	Library of useful self-made functions
 CroteauCRIUSMQ	EMQLS.test	version reçue de Molière le 30 octobre 2015
 Crunch-io	rcrunch	R package for interacting with the Crunch API
@@ -413,6 +414,7 @@ Defenders-ESC	threatdemog	Analysis of Threat and Demography Scoring Manuscript
 Deleetdk	kirkegaard	first public version
 Deleetdk	megadataset	A worldwide dataset of data for countries and intra-country regions.
 Dementiy	vkR	Access to VK (Vkontakte) API via R
+DerekYves	dsademo	Files for NYCDSA Demo
 DerekYves	gcoder	Provides methods to geocode an address in R using Google's (paid) Google for Work service.
 DerekYves	r_geo_code	Provides methods to geocode an address in R using Google's (paid) Google for Work service.
 DerekYves	rsurveygizmo	This R package provides functions to download survey response and email campaign data from Survey Gizmo, saving the returned data as an R data.frame.
@@ -643,7 +645,7 @@ Hackout3	outbreaks	outbreaks: a R package compiling disease outbreak data
 Hackout3	saphy	Sequential analysis of phylogenies
 Hackout3	timetrees	A collection of time-stamped pathogen phylogenies
 Hafro	rgadget	Rgadget is a set of useful utilities for gadget
-HajkD	biomartr	Functional Annotation and Biological Data Retrieval with R
+HajkD	biomartr	Biological Data Retrieval with R
 HajkD	myTAI	Perform Evolutionary Transcriptomics with R
 HajkD	orthologr	Comparative Genomics with R
 HajkD	philentropy	A Distance Measure and Information Theory Jackknife
@@ -2094,6 +2096,7 @@ aloysius-lim	bigrf	Random forests for R for large data sets, optimized with para
 alphajuliet	ajworkr	R utility functions
 alstat	face	or
 altaf-ali	installdeps	Install Dependencies
+alteryx	AlteryxPredictive	This is an R package containing utility functions used by the predictive tools in Alteryx.
 alteryx	AlteryxPrescriptive	R Package for Optimization in Alteryx
 alteryx	AlteryxSim	R package for Simulation in Alteryx
 alumbreras	rlumbreras	An R package with miscellaneous helpful functions that I use regularly
@@ -2548,6 +2551,7 @@ benmarwick	Stratigraphy-and-radiocarbon-dates-from-Gua-Mo-o-hono-Sulawesi	Text, 
 benmarwick	kwakmarwickaas2015	
 benmarwick	smps	time series colour contour plots of data from Scanning Mobility Particle Sizer (SMPS) data
 benmarwick	wordcountaddin	Word counts and readability statistics in R markdown documents
+benmoran11	rubias	identifying and reducing bias in hierarchical GSI
 benneely	ddsRClient	R programmatic client to the duke-data-service
 benpeloquin7	rrrsa	
 bensoltoff	rnflstats	Playing around with NFL stats and win-probability models in R
@@ -4004,7 +4008,7 @@ emunozh	GREGWT	A GREGWT implementation on R
 emunozh	heat	Estimate heat demand of residential buildings
 emvolz-phylodynamics	phydynR	No description or website provided.
 emwozniak	Table1	Create summary tables
-emwozniak	kmrskplot	Survival plots
+emwozniak	kmrskplot	Generate survival plots with risk tables
 emwozniak	reportR	Stylize with miscellaneous reporting tools::UNDER CONSTRUCTION
 enanomapper	renm	An R client package for querying data from the database API.
 encoredkjs	nilmJPN	
@@ -4951,6 +4955,7 @@ idroz	maworkflow	R workflows for gene expression analysis
 iembry-USGS	FEWSR	FEWS river, lake, and pond models used to obtain the evapotranspiration from surface waters in power plants.
 iembry-USGS	USGSstates2k	This is a data package containing the dataset known as states2k, which is the United States of America in the NAD 1983 Albers projection.
 iembry-USGS	ie2misc	A collection of Irucka Embry's miscellaneous functions (processing .exp and .psf files, statistical error functions, "+" dyadic operator for use with NA, creating ADAPS and QW spreadsheet files, etc.) created while he was a Cherokee Nation Technology Solutions (CNTS) United States Geological Survey (USGS) Contractor and/or USGS employee.
+iembry-USGS	ie2miscfork	
 igollini	lvm4net	lvm4net Latent Variable Models for Networks
 igraph	rigraph	igraph R package
 ijlyttle	bsplus	Shiny and Rmarkdown addons to Bootstrap 3
@@ -5174,6 +5179,7 @@ jayhesselberth	tidytime	Tidying functions for time series data
 jayhesselberth	valr	Genome interval arithmetic in R
 jaysonvirissimo	theMangaGuideToStatisticsInR	No description or website provided.
 jayverhoef	MMIGeoStat	No description or website provided.
+jayverhoef	SSN	
 jayverhoef	fluvgrm	
 jbecu	ridgeAdap	Package ridgeAdap for R
 jbelsky	TyphoonPlot	JAB R Package TyphoonPlot
@@ -6104,6 +6110,7 @@ kthorstmann	horst	A small r package with functions used by me and some of my col
 kthorstmann	quest	the quest package for questionnaire analysis
 ktoddbrown	FTICR_Processing	Watch
 ktoddbrown	rtedem	An R repository for terrestrial decomposition models
+kuhnrl30	LabCorp	R package to scrape LabCorp's website for location data on their facilities.
 kuhnrl30	Northwind	Rpackaged to distribut the data table from the Northwind sample database
 kuol	ROI.plugin.gurobi	Gurobi plugin for R package: ROI (R Optimization Infrastructure)
 kvnkuang	pbmcapply	Tracking the progress of mc*apply with progress bar.
@@ -6808,6 +6815,7 @@ miraisolutions	xlconnect	XLConnect: Excel Connector for R
 miraisolutions	xlconnectjars	XLConnect JAR dependencies
 miriamMota	biom	Construcción y validación de un biomarcador a partir del paquete CMA de R
 miriamMota	mmotaF	paquet funcions habituals
+mirtaher	TwoPeriodSim	Two period model simulations
 mixtrak	geohydroeco.WRS.2014	Data and analysis vignettes for an aquifer microbial ecology research project
 mixtrak	microecol	microecol
 mixtrak	mixtrak	Personal R package with stuff I find useful
@@ -7487,7 +7495,7 @@ petermeissner	robotstxt	robots.txt file parsing and checking for R
 petermeissner	robotzeroone	a webbot written in R
 petermeissner	rtext	R6 R text and data objects
 petermeissner	spanmatcher	Matching and merging/joining time span data frames with help of Rcpp/R/C++
-petermeissner	stringb	tools for string handling in R not covered by base, stringr, or stringi
+petermeissner	stringb	R (base) string handing with less dependencies, less power more convenience.
 petermeissner	twitterlight	A lightweight functional R <--> Twitter API interface
 petermeissner	unikonstanzmensabot	Uni Konstanz Mensa / Canteen Twitter Bot
 peterwsetter	kippco	Misc functions for KIPP Colorado Schools Data Team
@@ -8081,6 +8089,7 @@ robertbagchi	ReplicatedPointPatterns	R code to analyse replicated point patterns
 robertmitchellv	babblr	My personal R package with functions I use as well as code that makes my life easier--likely a bunch of nonsense that really only I would find useful!
 robertness	bninfo	Simulations, performance, and information theoretic manipulations of Bayesian networks in R
 robertness	lucy	lucy is a wrapper for the popular igraph package that is useful for building graphical models.
+robertness	signalgraph	
 robertzk	Ramd	AMD (asynchronous module definitions) in R
 robertzk	allthepackages	All robertzk packages
 robertzk	berdie	Berdie is an R package for synchronizing data sources across two separate layers
@@ -8247,6 +8256,7 @@ ropensci	rplos	R client for the PLoS Journals API
 ropensci	rsnps	Wrapper to a number of SNP web APIs
 ropensci	rusda	Interface to USDA Databases
 ropensci	rvertnet	Wrapper to the VertNet API
+ropensci	sheetseeR	A quick and easy interface to Google Docs + SheetSee.js
 ropensci	sofa	easy R interface to CouchDB
 ropensci	solr	A general purpose R interface to Solr
 ropensci	solrium	A general purpose R interface to Solr
@@ -8478,6 +8488,7 @@ sbfnk	dynmod	Stuff for modelling infectious disease dynamics
 sbfnk	fitR	Functions for model fitting and inference
 sbfnk	flusurvey	code for flusurvey analysis
 sbg	sevenbridges-r	CWL schema, Meta schema, API client and SDK helper in R
+sbohora	sAUC	
 sborstein	AnnotationBustR	AnnotationBustR
 sboysel	africa	Administrative boundary data for African continent packaged for R
 sboysel	boston	An R spatial data package for election wards and precincts for the City of Boston
@@ -8851,6 +8862,7 @@ stanstrup	convert.waters.raw	Watch
 stanstrup	jchemR	wrapper functions for the commandline version of jchem (cxcalc)
 stanstrup	massageR	Functions for data massaging in R
 stanstrup	mwtabR	Parser for mwtab files from the metabolomicsworkbench
+stas-g	funfun	
 statapps	bhm	Biomarker Threshold Models (version 1.05)
 statapps	hbthm	Bayesian Threhold Model
 statapps	power.ctepd	Power and sample size for clinical trials and epidemiolog
@@ -9608,6 +9620,7 @@ vstanislas	GGEE	R Package for the Group Lasso Gene-Gene Eigen Epistasis (G-GEE) 
 vtrubets	OmicKriging	Improvements for OmicKriging CRAN release.
 vwmaus	dtwSat	Time-Weighted Dynamic Time Warping for satellite image time series analysis
 vz-risk	verisr	R package for working with VERIS data
+w9	zx	An R package full of helper functions I use on daily basis.
 wStockhausen	rCompTCMs	R package to facilitate comparisons of TCSAM2013 and 2015 models.
 wStockhausen	rTCSAM2013	Source files for an R package with functions for running TCSAM2013 and plotting model results.
 wStockhausen	rTCSAM2015	R code for plotting TCSAM2015 model results.
@@ -9877,6 +9890,7 @@ yasserglez	cec2005benchmark	Benchmark for the CEC 2005 Special Session on Real-P
 yasserglez	oreilly_data_science_salary	Shiny app for the O'Reilly ‘2015 Data Science Salary Survey’ models
 yasserglez	vines	Multivariate Dependence Modeling with Vines
 ybkamaleri	aimPlot	Create a pie like plot to show completeness of various aims in a project
+ybucla	commFunc	comm functions used in work
 ycl6	BSgenome.Bdistachyon.JGI.Bd3.1	Full genome sequences for Brachypodium distachyon (JGI version 3.0 assembly)
 ycl6	TxDb.Bdistachyon.JGI.Bd3.1.geneexons	TxDb object for Brachypodium distachyon (JGI v3.1 annotation)
 yeamin1	inzight	
@@ -10048,7 +10062,7 @@ ziyanyin	DEEE	An implementation of Differentially Expressed genes analysis and E
 zjdaye	AFNC	Adaptive False Negative Control (AFNC)
 zji90	GSCA	Watch
 zji90	GSCAshinyapp	Watch
-zji90	SCRAT	No description or website provided.
+zji90	SCRAT	
 zji90	TSCAN	TSCAN: Tools for Single-Cell ANalysis
 zkamvar	InspirationDisseminationSchedule	Code to create the schedule and dossiers for Inspiration Dissemination
 zkamvar	blotmat	No description or website provided.
