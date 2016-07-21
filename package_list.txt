@@ -79,6 +79,7 @@ AndersenLab	wormbase-api	No description or website provided.
 Anderson-Lab	ComplementaryDomainPrioritization	Heterogeneous Domain Prioritization and Filtering Demonstrated on Proteogenomic Datasets
 AndreaCirilloAC	ramazon	run your shiny App on Amazon AWS launching a function.
 AndreaCirilloAC	updateR	update your R version in a breeze ( on OSX)
+AndreaFerrante	RTradingBacktester	
 AndreasChristianHill	forestinventory	forestinventory
 AndrewLJackson	SIBER	ellipse and convex hull fitting package for stable isotope data
 AndrewLJackson	siar	Stable Isotope Analysis in R - package
@@ -418,6 +419,7 @@ DeclareDesign	DeclareDesign	Tools for characterizing and diagnosing the properti
 Dectech	DectechR	No description or website provided.
 Defenders-ESC	esas10agmts	An R Data Package for Endangered Species Act Section 10 Agreements
 Defenders-ESC	threatdemog	Analysis of Threat and Demography Scoring Manuscript
+Defenders-ESC	usagencies	Names and Hierarchy of U.S. Government Agencies
 Deleetdk	kirkegaard	first public version
 Deleetdk	megadataset	A worldwide dataset of data for countries and intra-country regions.
 Dementiy	vkR	Access to VK (Vkontakte) API via R
@@ -617,7 +619,7 @@ Groupe-ElementR	MTA	Multiscalar Territorial Analysis
 Groupe-ElementR	SpatialPosition	💢 R package for computing spatial position models
 Groupe-ElementR	cartography	🌐 Thematic Cartography
 GuangchuangYu	ChIPseeker	🎯ChIP peak Annotation, Comparison and Visualization
-GuangchuangYu	DOSE	😵Disease Ontology Semantic and Enrichment analysis
+GuangchuangYu	DOSE	Disease Ontology Semantic and Enrichment analysis
 GuangchuangYu	GOSemSim	GO-terms Semantic Similarity Measures
 GuangchuangYu	ReactomePA	Reactome Pathway Analysis
 GuangchuangYu	SSS	SKLEID Sequence Suit
@@ -1054,7 +1056,7 @@ MartinRoth	fogDec	Automatic fog detection
 MartinRoth	knmiR	Access to KNMI data
 MartinRoth	knmipluim	
 MartinRoth	knmitransformer	
-MartinRoth	potreg	No description or website provided.
+MartinRoth	potreg	
 MartinRoth	regthresh	Regional threshold selection
 MartinRoth	visDec	Visibility/Fog Detection
 MaryHe	First-Package-of-Mary	
@@ -1227,6 +1229,7 @@ PDXChris	pmMaps	Tools for mapping PAWMAP data
 PDXChris	pmtools	An R package with a set of functions for working with PAWMAP data
 PF2-pasteur-fr	SARTools	Statistical Analysis of RNA-Seq Tools
 PGWG	analysis	
+PLJV	landsatWorkbench	An R package containing some useful functions for downloading , aggregating, and post-processing LANDSAT mission imagery.
 PMassicotte	cdom	The cdom package implements various functions used to model and calculate metrics from absorption spectra of chromophotic dissolved organic matter (CDOM).
 PMassicotte	eemR	Utilities for pre-processing emission-excitation-matrix (EEM).
 PMassicotte	gtrendsR	R functions to perform and display Google Trends queries
@@ -1416,6 +1419,7 @@ RGLab	HIV.db	HIV annotation database
 RGLab	ImmuneSpaceR	A thin wrapper around Rlabkey to access the ImmuneSpace database from R
 RGLab	LumiR	The LumiR package
 RGLab	MAST	Tools and methods for analysis of single cell assay data in R
+RGLab	MIMOSA2	Baseline Adjusted Positivity Calls for Intracellular Cytokine Staining Data
 RGLab	RNASeqPipelineR	Streamline the processing of RNASeq data
 RGLab	flowClust	Bayesian flowClust
 RGLab	flowIncubator	Routines that don't belong to the core flow packages yet.
@@ -1682,6 +1686,7 @@ Swarchal	focus	R package to detect and remove low-quality image data
 Swarchal	fridayDemo	Demonstration
 Swarchal	phenoDist	Distance and similarity metrics used in phenotypic screens
 Swarchal	phenoScreen	An R package for plate maps and phenotypic screening
+SwissTPH	xva	
 SymbolixAU	googleway	
 SymbolixAU	mongolitedt	
 SymbolixAU	myWidgetHTML	
@@ -2017,6 +2022,7 @@ airoldilab	sgd	An R package for large scale estimation with stochastic gradient 
 ajank	Romulus	Romulus: Robust multi-state identification of transcription factor binding sites from DNase-seq data
 ajdm	morgenstemning	
 ajhmohr	datadictionary	
+ajpete	testPackage	
 ajpete	toyPackage	
 ajrominger	pika	an R package for macroecology
 ajrominger	socorro	a package of helper functions for R
@@ -2636,6 +2642,7 @@ bheavner	minid	A R package for working with BDDS minids
 bhklab	MetaGx	MetaGx
 bhklab	PharmacoGx	
 bhklab	genefu	R package providing various functions relevant for gene expression analysis with emphasis on breast cancer.
+bhoung	trueskill-in-r	Implementation of the TrueSkill algorithm in R
 bhuston	bhustonUtils	package for storing miscellaneous R functions
 bigdataee	opendata	No description or website provided.
 biggis-project	temp-modeling	R-code related to temperature modeling (AP3)
@@ -3107,6 +3114,7 @@ ck37	ckTools	Custom R functions for various things
 ck37	htestimate	Horvitz-Thompson estimator for RCTs, with Joel Middleton
 ck37	varImpact	Variable importance using causal inference, with Alan Hubbard
 ckluss	cldtest	
+clacor	corr2D	
 clarepacini	covEB	Empirical Bayes estimation of covariance matrices
 claudiacava	SpidermiR	
 clayford	bme	Data and functions for Biostatistical Methods in Epidemiology (Newman, 2001)
@@ -3160,6 +3168,7 @@ cmjt	gapski
 cmjt	lgcpSPDE	
 cmourani	IPtoCountryDB11	
 cnaumzik	caffeR	
+cndesantana	plotshadow	Plot curves in R representing the mean values as lines and the standard deviation as shadow polygons
 cneupart	ST516-Rpackage	Repository for Rpackage created for exam in ST516
 coatless	balamuta	Balamuta Miscellaneous R Package
 coatless	dropcli	Dropbox CLI for working on a Linux environment within R.
@@ -3582,7 +3591,7 @@ dfalbel	PTtextmining	Pacote em R para text mining fácil em português.
 dfalbel	bubblewordchart	Plot Word Frequencies and Sentiment.
 dfalbel	captchaReceita2	Quebrando o captcha da Receita Federal - v2
 dfalbel	modules	My Shiny Modules
-dfalbel	ptstem	Pacote de R para fazer stemming em português.
+dfalbel	ptstem	Stemming Algorithms for the Portuguese Language
 dfalbel	rbulamed	Baixar bula de medicamentos usando o R
 dfalbel	rslp	A Stemming Algorithm for the Portuguese Language
 dfalbel	rveja	Ferramenta para baixar notícias do site da revista Veja
@@ -3971,8 +3980,11 @@ ehrlinger	l2boost	Efficient boosting methods for linear regression.
 ehsan66	dod	D-optimal designs for nonlinear models
 ehsan66	emoptim	Evolutionary algorithms for multimodal optimization
 ehsanmok	foofactors	Make factors less annoying
+eilslabs	ComplexHeatmap	
+eilslabs	EnrichedHeatmap	
 eilslabs	HilbertCurve	
 eilslabs	circlize	
+eilslabs	gtrellis	
 eilslabs	rGREAT	
 einaooka	tea.color	Eina's custom color fucntions
 einaooka	tea.datetime	Eina's custom date time functions
@@ -4083,7 +4095,7 @@ environmentalinformatics-marburg	reset	Remote sensing-based evapotranspration
 environmentalinformatics-marburg	satellite	Official R package of the remote sensing course of the MSc Environmental Geography at Marburg University.
 environmentalinformatics-marburg	satelliteTools	Higher-level processing methods for (satellite) remote sensing datasets
 eogmartins	biotelemetry	Development of R functions for basic processing and visualization of data collected with biotelemetry techniques (e.g. radio, acoustic).
-ep1804	el	Elementary anaLytics - Personal data science toolbox
+ep1804	el	Elementary anaLytics - Package
 epgui	NTA	An open source Nanoparticle Tracking Analysis package for R
 epijim	EpijimFunctions	My R functions
 epinotes	vennplus	Modification of the Plotrix function "intersectDiagram", an alternative to the Venn diagram
@@ -4264,6 +4276,7 @@ fhirschmann	knitron	Use IPython and matplotlib in knitr!
 filipstachura	lambda	Very basic lambda functionality in R
 filipstachura	mailgunner	Package for using Mailgun API directly from R
 fineiskid	scdlintrend	Repo for Effect Sizes in SCD Studies with Trend analysis
+finite2	Eurosarc_bayes	The EurosarcBayes package
 finite2	peter.utilities	A bunch of useful functions
 finite2	robustToxicities	Robust toxicity programs for R
 finite2	trialSim	A work in progress framework for design of trials by simulation
@@ -5643,6 +5656,7 @@ joranE	skierELO	ELO functions
 joranE	statskier	Watch
 joranE	statskier2	Complete rewrite of statskier
 jordantjohns	mypkg	My R pkg
+josegallegos07	aceR	An R package for processing ACE data
 josegallegos07	steamR	An R wrapper for Steam's Web API
 josh-whitney	JWmisc	Watch
 josh-whitney	Jmisc	A small package of utility functions I've found handy.
@@ -6474,6 +6488,7 @@ m-dinardo	fsquant	R package for dealing with peculiarities in loading SPSS files
 m-sudmann-day	scrap	scrap
 maRce10	warbleR	streamline acoustic analysis in R
 maatouk	constrKriging	Kriging with inequality constraints
+mablab	rpostgisLT	Development repository of the rpostgisLT R package, in the scope of Google Summer of Code 2016.
 machow	importr	modular importing for R, without having to create a package
 machow	isctools	Basic tools for classic and SEM inter-subject correlation analysis
 mackerman44	SCOBI	Salmonid COmposition Bootstrap Intervals
@@ -6526,6 +6541,7 @@ mark-thompson	miscR	an assortment of useful R functions
 markajoc	condvis	http://markajoc.github.io/condvis/
 markallenthornton	dimest	Dissimilarity Matrix Dimensionality Estimation
 markdane	MEMA	MEMA Preprocessing, QA and Normalizing Functions
+markdr2	SISBID_session3_test	
 markdrisser	convoSPAT	convoSPAT
 markheckmann	OpenRepGrid	An R package for the analysis of repertory grids
 markheckmann	R2wdaddons	Addon to the R2wd package
@@ -6752,6 +6768,7 @@ mdsumner	wkt	R needs fast wkt parsing
 mdzeig	errorstat	error statistics in mcmc simulations
 mdziekon	eiti-alhe-firefly	Firefly Algorithm implemented in R
 mebaran	rsalesforce	R bindings to query Salesforce database
+medermand	JobApp	
 mehdirifai	TDC	
 mehmetgultas	metaplotr	Creates plots for meta-analyses
 mehrankr	AbHAC	Aberration Hub Analysis for Cancer
@@ -7083,6 +7100,7 @@ mukul13	RYandexTranslate	R package to translate text using Yandex Translate API
 mukul13	rechonest	R Interface to access Echo Nest API
 multiphrenic	IncentiveAnalysis	Tools for Incentive Analysis and Reward Modeling in R
 multiphrenic	obfuscateR	Data Masking Package for R
+mummlab	ARQiv	
 murrn	Average	Counting average age using R
 muschellij2	ANTsR_norgl	ANTsR without the RGL
 muschellij2	WhiteStripe	WhiteStripe Package
@@ -7852,6 +7870,7 @@ rOpenGov	recalls	Access U.S. Federal Government Recall Data
 rOpenGov	rqog	Download data from the Quality of Government Institute data
 rOpenGov	rsunlight	Interface to SunlightLabs APIs
 rOpenGov	rtimes	R wrapper for NYTimes API for government data
+rOpenGov	rwfs	WFS client for R
 rOpenGov	statfi	Statistics Finland Open Data R Tools
 rOpenGov	sweSCB	A R package for accessing the web API of Statistics Sweden (a.k.a. SCB)
 rOpenGov	sweidnumbr	R package for Structural handling of identity numbers used in the swedish administration such as personal identity numbers (personnummer) and organizational identity numbers (organisationsnummer).
@@ -8501,7 +8520,7 @@ s-u	hmr	High-performance Hadoop Map/Reduce R interface based on iotools
 s1437643	damR	No description or website provided.
 sa-ccr	SACCR	R package implementing the SA-CCR Basel III Regulation
 sa-lee	moimix	R package for estimating MOI for SNV data
-sa-lee	starmie	🌟mie: plotting and inference for lazy population genetics
+sa-lee	starmie	starmie: plotting and inference for population structure models 🌟
 saberry	Fun-R-Palettes	A collection of fun palettes to use in R.
 saberry	cortisolR	Analyzing cortisol data.
 saberry	qualtricsR	Easy Qualtrics REST API calls through R.
@@ -8678,7 +8697,7 @@ seonghobae	flirt.x32	the fork of R package FLIRT for Flexible item response theo
 seonjoo	PSVDOS	No description or website provided.
 sephill	bingo-cards	
 seqcloud	seqcloudR	R functions for use in next-generation sequencing data analysis.
-seqcloud	worminfo	C. elegans genome and RNAi library metadata. Gene annotations dynamically assembled from WormBase, Ensembl, and PANTHER. RNAi library annotation support for ORFeome and Ahringer feeding RNAi libraries.
+seqcloud	worminfo	C. elegans genome and RNAi library annotations.
 serbinsh	R-FieldSpectra	R library for importing and processing field spectroscopy data collected with ASD and Spectral Evolution instruments
 serenasignorelli	QueryWikidataR	QueryWikidataR
 sestelo	fwdselect	An R package for selecting variables in regression models
@@ -8705,6 +8724,7 @@ sgibb	MALDIquantForeign	Import/Export routines for MALDIquant
 sgibb	cleaver	Cleavage of polypeptide sequences
 sgibb	readBrukerFlexData	Reads data files acquired by MALDI-TOF MS on Bruker Daltonics machines of the *flex series
 sgibb	readMzXmlData	Reads mass spectrometry data in mzXML format
+sgoodreau	hw_tut	
 sgsokol	Deriv	Symbolic differentiation
 shabbychef	BWStest	R package for the Baumgartner Weiss Schindler 2-sample test of equal probability distributions.
 shabbychef	MarkowitzR	statistics of the Markowitz portfolio
@@ -9289,7 +9309,7 @@ thibautjombart	outbreaker2	Disease outbreak reconstruction from epidemiological 
 thibautjombart	treescape	Exploring tree diversity
 thibautjombart	vimes	Visualisation and monitoring of epidemics
 thierrygosselin	assigner	Assignment Analysis with GBS/RAD Data using R
-thierrygosselin	stackr	stackr: a R Package for the Analysis of GBS/RAD Data
+thierrygosselin	stackr	stackr: an R package for the analysis of GBS/RADseq data
 thierrygosselin	sunnier	Set of functions to make your day a little sunnier when working with cloud compute engine like Amazon and Google, all inside R.
 thiloklein	matchingMarkets	Analysis of Stable Matchings in R ::
 thirdwing	RcppDL	
@@ -9379,6 +9399,7 @@ tjconstant	ultrafastMonkey	Misc Tools for work in Exeter University's Ultrafast 
 tjmahr	WrapRmd	RStudio addin for wrapping RMarkdown paragraphs
 tjmahr	littlelisteners	R functions for working with hand-coded eyetracking data
 tjmahr	lookr	Scripts for looking-while-listening eye-tracking experiments
+tkatsuki	dipr	Digital Image Processing with R
 tklebel	crosstabr	Cross tabulation with HTML and Markdown output
 tklebel	tkmisc	Package for R
 tkonopka	ExpCube	R analysis of cell/stimulus/expression data
@@ -9805,7 +9826,7 @@ wfarmer-usgs	WREG	WREG from matlab to R
 wfondrie	pixl	determining Protein Interactions by Cross-Linking mass spectrometry
 wgalvord	owprm	The owprm R package
 wgar84	PopSim	
-wgmao	priorPCA	No description or website provided.
+wgmao	priorPCA	
 wguo1990	l0ara	
 whanrott	fermentR	An R package containing converters and calculators for brewing and fermentating
 whatalnk	docsetr	Docset of your library
