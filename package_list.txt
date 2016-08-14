@@ -163,6 +163,7 @@ Ax3man	trackr	Analyze and Visualize Tracking Data
 Ayan1	Cell-Trajectory-Analysis	No description or website provided.
 B-Davis	bdavis	
 BAAQMD	copydat	Copy R data to clipboard
+BANOVAapp	BANOVA_R	
 BCable	Rdicejobs	Dice.com API Interface as an R package
 BD2K-DDI	ddiR	An R package to access to Omics Discovery Index API
 BEAST2-Dev	rbeast2	
@@ -264,6 +265,7 @@ Boshoffsmit	Mypackage	The addFunction
 Boshoffsmit	novaFire	No description or website provided.
 Boshoffsmit	novaReport	No description or website provided.
 BoulderCodeHub	CoRiverNF	R data package for Colorado River Natural Flows
+BoyaoZhang	data516	Data 516
 BradHubley	OffshoreClams	
 BradHubley	SpatialHub	Survey design and spatial analysis of fisheries data
 BrnCPrz	PedyR	R package to deal with genealogical structured data (pedigrees!)
@@ -1352,6 +1354,7 @@ Paulms	RegUtils	Regresiones
 PawelKra	wskCI	R package for caclulating tree competition indexes on testing sites.
 PeFox	DySeq	No description or website provided.
 PeeperLab	CopywriteR	DNA copy number detection from off-target sequence data
+PeeperLab	Rtoolbox	Toolbox with R scripts
 PeeperLab	XenofilteR	Filtering of PDX samples for mouse derived reads
 PengNi	dSimer	
 PennStateDEPENdLab	fitclock	R package for fitting clock task data.
@@ -2086,7 +2089,7 @@ adamdsmith	MABM	MABM (Mobile Acoustical Bat Monitoring) package
 adamdsmith	geobird	
 adamdsmith	ggscalebar	Function(s) to facilitate the addition of custom scale bars and north arrows to ggplot2 objects
 adamhsparks	EPIRICE	A fork of the R cropsim package designed to make using the EPIRICE model for rice diseases easier
-adamhsparks	GSODR	Download and manipulate weather data freely available from the US National Climatic Data Center
+adamhsparks	GSODR	Global Summary Daily Weather Data in R
 adamhsparks	IRRIEddyClean	Fills gaps and removes outliers in eddy covariance data. Calculates 24hr evapotranspiration based on the cleaned data.
 adamhsparks	ThetaProbe	Download, Clean and Generate a Single Data File From USQ Theta Probe Soil Moisture Data
 adamhsparks	epiRice	A fork of the R cropsim package designed to make using the EPIRICE model for rice diseases easier
@@ -2132,6 +2135,12 @@ afukushima	org.Slycopersicum.eg.db	organism package for tomato by makeOrgPackage
 afukushima	org.Slycopersicum.kozo.db	MODIFIED Genome wide annotation for Solanum lycopersicum
 afwillia	AWRstudioAddins	Addin functions for Rstudio
 agamat	creditRisk	
+agaye	ESPRESSO.E	
+agaye	ESPRESSO.ExE	
+agaye	ESPRESSO.G	
+agaye	ESPRESSO.GxE	
+agaye	ESPRESSO.GxG	
+agaye	ESPRESSO.LD	
 agi0917	AZNASN	Source repository for course Applied Statistical Methods in Animal Science @ ETH
 agi0917	AlternativeSplicingDocu	Docu project on alternative splicing
 agisga	grpSLOPE	Group SLOPE (Group Sorted L1 Penalized Estimation)
@@ -2275,6 +2284,7 @@ alramadona	denfor	Dengue forecast
 alspur	kysrc	Data from Kentucky's School Report Cards website
 alstat	ALUES	Agricultural Land Use Evaluation System
 alstat	face	or
+alstat	rface	R Package for Face Recognition using Principal Component Analysis
 altaf-ali	installdeps	Install Dependencies
 altaf-ali	nightlight	
 alteryx	AlteryxPredictive	This is an R package containing utility functions used by the predictive tools in Alteryx.
@@ -2835,6 +2845,7 @@ bjornkopperud	annotation2slouch
 bjornkopperud	annotation2slouch_old	
 bjornkopperud	slouch	Slouch in development
 bjornkopperud	slouchbtk	personal copy slouch
+bjornkopperud	slouchexp	
 bjw649	testBW1	No description or website provided.
 bkaplan4	beezdemand	R package containing functions to help aid in analyzing behavioral economic demand curve data
 bkayser	NewRelicR	R library for accessing New Relic data
@@ -3080,7 +3091,7 @@ cancercentrum	rccepi	Epidemiological calculations for RCC data
 cancercentrum	rccmisc	Miscellaneous R functions for the Regional Cancer Centers
 cannin	paxtoolsr	No description or website provided.
 cannin	pheatmap	A fork of CRAN pheatmap that colors NA entries black
-cannin	rcellminer	No description or website provided.
+cannin	rcellminer	
 cannin	rcellminerData	
 cannyp3	choiceBasedConjoint	No description or website provided.
 caom	peakOmics	An R package for LCMS-based metabolomics data analysis and annotation
@@ -3521,6 +3532,7 @@ ctbrownlees	R-Package-dynamo	No description or website provided.
 ctbrownlees	R-Package-nets	R package nets
 ctesta01	QualtricsTools	Using R, Pandoc, Shiny, Word, CSVs, and more to automate processing Qualtrics data
 ctesta01	qualtrics-R-package	
+ctfysh	sfc	
 ctlab	ClusDec	
 ctlab	fgsea	Fast Gene Set Enrichment Analysis
 ctmann	NettlePackage	Things One Ought to Know How to Do, Compiled
@@ -3768,7 +3780,8 @@ dcomtois	summarytools	R Package for quickly and neatly summarizing vectors and d
 ddarmon	spenra	No description or website provided.
 ddionrails	r2ddi	Using R to extract DDI from various data formats
 ddsbook	ripal	The OTHER Password Dump Analyzer (in R)
-deanmarchiori	dataexplorer	No description or website provided.
+deanmarchiori	dataexplorer	dataexplorer is a package that acts as a convenience wrapper for my most commonly used data summarisation tools
+deanmarchiori	gofish	R package for data standardisation in marine science
 debajyoti7	featheriseR	convert files to feather format
 debangs	RSAGA	RSAGA Package Code
 debinqiu	aTSA	Alternative time series analysis
@@ -3824,6 +3837,7 @@ despresT	replicated.pattern	No description or website provided.
 dev01120314	BoxToolsCepoi	BoxToolsCepoi
 devSJR	mdcr	modest data crunsheR
 devSJR	micR	image analysis
+devoges	AddInfo	
 dewittpe	qwraps2	An updated version of qwraps with a focus on flexibility and general purpose. These functions are helpful for extracting and formatting results form R into .Rnw or .Rmd files. Additional functions for routine work such as extracting results from regression models or finding sensitivity and specificity.
 deybvagm	amnfis	No description or website provided.
 dfalbel	PTtextmining	Pacote em R para text mining fácil em português.
@@ -4004,6 +4018,7 @@ dpasqualin	sfreemapc	C implementation of sfreemap
 dpasqualin	sfreemapr	Alternative implementation of Sfreemap - Simulation Free approach for Stochastic Mapping
 dpastoor	PKPDmisc	miscellaneous functions and tools for use in pharmacometric analyses
 dpastoor	bdreport	create reports with bookdown while still keeping original individual Rmd files intact
+dpastoor	lpgitbook	literate programming with gitbook (and rmarkdown)
 dpastoor	remotedata	
 dpastoor	vancomycin	No description or website provided.
 dphansti	Sushi	Tools for visualizing genomics data
@@ -4709,7 +4724,7 @@ gastonstat	plspm	R package plspm
 gauravsk3	odds	
 gavinfay	TMBphase	fits TMB models with phases
 gavinha	TitanCNA	A Factorial-HMM for analyzing subclonal copy number alterations (CNA) and loss of heterozygosity (LOH) in cancer
-gavinsimpson	analogue	Watch
+gavinsimpson	analogue	Analogue and weighted averaging methods for palaeoecology
 gavinsimpson	analogueExtra	Extra features and functions for use with the analogue package
 gavinsimpson	canadaHCD	Access Canadian Historical Climate Data from R
 gavinsimpson	cocorresp	Watch
@@ -5365,6 +5380,7 @@ ikwak2	aSPU	An R package for adaptive sum of powered score test(ASPU) in genetic
 ikwak2	funqtl	An R package for QTL mapping in function valued trait data
 ilapros	ilaprosUtils	Some useful functions I happen to use
 ilia-kats	imisc	miscellaneous
+imadmali	item.analysis	
 imanuelcostigan	arnie	"Arnie" box office records 1982-2014
 imanuelcostigan	predrcats	Predicate Functions with Sane Interfaces and Behaviours
 imarpe	jjmTools	Graphics and diagnostics libraries for SPRFMO's JJM model
@@ -5443,6 +5459,7 @@ jacob-ogre	hcphb	Analysis of FWS/NMFS HCP Handbook Draft Revisions
 jacob-ogre	pdftext	pdftext: An R package to extract text from PDFs
 jacobbien	ggb	Graph-Guided Banding of the Covariance Matrix
 jacobbien	simulator	An Engine for Running Simulations
+jacobcvt12	BNPregression	Bayesian Nonparametric Regression
 jacobcvt12	GP	No description or website provided.
 jacobcvt12	hlm.comparison	
 jacobcvt12	twR	Watch
@@ -5521,6 +5538,7 @@ jangorecki	r.pkg.gitlab.ci	No description or website provided.
 janhoo	crecs	Comfy Multivariate Regression and Cross-validation with Spatial Objects
 jannes-m	RQGIS	RQGIS - integrating R with QGIS
 jansila	backup_myPack	
+jansila	myStable_backup	
 janusza	RmRMR	R package implementing mRMR feature selection framework for DISESOR project
 janusza	RoughSets	RoughSets package for R System
 janzzon	difftimeOffice	Duration within office hours between timestamps
@@ -5868,6 +5886,7 @@ jknowles	merTools	Convenience functions for working with merMod objects from lme
 jkokosar	RNASeqT	R package for RNA-Seq results normalization and visualization
 jkrijthe	RSSL	A Semi-Supervised Learning package for the R programming language
 jkrijthe	Rtsne	R wrapper for Van der Maaten's Barnes-Hut implementation of t-Distributed Stochastic Neighbor Embedding
+jkroes	FixEncoding	Functions to find and replace invalid UTF-8 characters/bytes using the R language. Requires a UTF-8 locale.
 jkruppa	kmerPyramid	R package to visualize the kmer distribution between samples
 jladams	sumar	A set of tools to retrieve and manipulate data from Suma using R.
 jlaultman	ibrokers	Automatically exported from code.google.com/p/ibrokers
@@ -5898,8 +5917,10 @@ jmbh	mgm	Estimation of Time-Varying Mixed Graphical Models
 jmbh	mta	Processing hand movement data
 jmbh	mta2	new version of mta package
 jmcastagnetto	nistrb	An R package to access the NIST Randomness Beacon
+jmcimula	ethnocloud	Focusing on providing high quality music streaming content
 jmcimula	flytr	Quickly and Easily Track a Flight
 jmcimula	lmR	Building a Prediction Model from Top 10 Features
+jmcimula	lmr	Building a Prediction Model from Top 10 Features
 jmcimula	okapi	The package for Okapi News Tracker
 jmcphers	rregvis	R Regular Expression Visualizer
 jmcurran	Bolstad	No description or website provided.
@@ -5909,6 +5930,7 @@ jmgfake	ThePakken	ThePakken
 jmgnve	HMOD	HMOD
 jmgnve	NVEDATA	NVEDATA
 jminnier	emrselect	Automated EMR feature selection
+jmlondon	crawlr	utilities and visualization functions in support of the crawl R package
 jmlondon	hsmm_seasons	manuscript on the use of multivariate hidden semi-Markov models for detecting seasonal behavior states from bio-logging data
 jmlondon	kotzeb0912	telemetry data from 7 adult bearded seals captured in Kotzebue, Alaska
 jmlondon	wcUtils	Utilities for working with Wildlife Computers WC-DAP data files
@@ -6763,6 +6785,7 @@ lidiaad	findGO
 lidiaad	newGO	No description or website provided.
 lidiaad	profilesGO	Watch
 liesb	BIITE	
+likelet	PlotAppForTBtools	A shiny app for TBtools data plot
 lileok	projectR	R functions for projects
 lillion	emittr	
 limetoad	qualtricsR	
@@ -7620,6 +7643,7 @@ mzinkgraf	ConsensusCoExpression
 mzinkgraf	StemCurve	No description or website provided.
 n-s-f	mockery	A mocking library for R.
 n-s-f	proctor	unit testing in R
+n8thangreen	treeSimR	
 nFrechen	RgetDWDdata	R function to download data from the DWD (german weather service)
 nabilabd	hybridSA	Hybrid Source Apportionment
 nachocab	clickme	An R package to create interactive plots
@@ -7719,6 +7743,7 @@ ngwalton	iec	An R package for calculating the Index of Ecological Condition (IEC
 nhejazi	nima	A personal R package to house my miscellaneous custom functions
 nicebread	RSA	R package for Response Surface Analysis
 nicebread	p-checker	p-checker: The one-for-all p-value analyzer. R-Index, p-curve, and more in one online app.
+nick-ulle	ast	Tools and classes for manipulating abstract syntax trees in R.
 nick-ulle	typesys	An R package for working with abstract type systems.
 nickb-	glida	GLIDA is a tool to help analyse patterns of LD. Primarily visual and exploratory-based, with the ability to add gene annotations.
 nickbond	catchstats	functions to compile catchment statistics such as area, runoff, mean rainfall, based on values for nested sub-catchments
@@ -7892,6 +7917,7 @@ oncogenetics	oncofunco	Custom functions
 oneillkza	ContiBAIT	
 oneilsh	rstackdeque	Stack and deque datatypes for R - fast and functional
 onertipaday	predictionapirwrapper	R Wrapper for Google Prediction API
+onnokleen	grch	
 openconnectome	FlashR	
 openconnectome	FlashR--	No description or website provided.
 openefsa	efsa2016.00601	Supporting code for EFSA opinion EFSA-2016-00601
@@ -7924,6 +7950,7 @@ oswaldosantos	ggsn	R package to add north symbols and scale bars to maps created
 ottlngr	DBopen	Query the DB-Open-Data timetable API
 ottlngr	LexisPlotR	R Package for Plotting Lexis Diagrams
 ottlngr	bib2df	Parse a .bib-file to a tibble
+ottlngr	bundesligR	
 ottlngr	compareVersions	No description or website provided.
 ottlngr	ggThemeR	ggThemeR - RStudio Addin
 ottlngr	wittgenstein	No description or website provided.
@@ -9123,6 +9150,7 @@ sanmai-NL	feat	Parsed documents as long sparse linguistic feature vectors
 santoscs	prevendo.inflacao.fatores.comuns	Código R e dados para reproduzir os resultados do artigo "Prevendo a Inflação no Brasil com grande conjunto de dados: uma aplicação do modelo de fatores comuns e índice de difusão"
 santosneto	RBS	Reparameterized Birnbaum-Saunders regression models
 santosneto	rbsmodels	Reparameterized Birnbaum-Saunders regression models
+saralinker	brainImageR	A Framework for visualizing gene set enrichment throughout neurodevelopment
 sarotter	BigginsTime	
 sartorlab	methylSig	R package for whole genome DNA methylation analysis.
 sarupurisailalith	RStudioAddins	RStudio Addins for statistical model diagnostics
@@ -9601,6 +9629,8 @@ stela2502	RFclust.SGE	R random forest clustering using a sun grid engine backend
 stela2502	Rscexv	The new SCExV R backend (S4)
 stela2502	StefansExpressionSet	Moved ExpressionSet to StefansExpression set as bioconductor already uses the first name.
 stela2502	ggplot2.Heatmap	Watch
+stephan-koenig	nranalysis	Creates shiny apps from Netrunner data generated by nrdata
+stephan-koenig	nrdata	Getting and cleaning netrunner data
 stephaniehicks	HousemanSeq	A tool to estimate the cell composition of whole blood in DNA methylation measured on any platform technology (microarray and sequencing).
 stephaniehicks	qsmooth	Smooth quantile normalization (qsmooth) is a generalization of quantile normalization, which is an average of the two types of assumptions about the data generation process: quantile normalization and quantile normalization between groups.
 stephaniehicks	quantro	The R-package quantro is a data-driven test for global differences between groups of distributions which asses whether global normalization methods such as quantile normalization should be applied.
@@ -9645,6 +9675,7 @@ stewid	xapr	R bindings to the Xapian search engine
 stianlagstad	chimeraviz	chimeraviz manages data from fusion gene finders and provides useful visualization tools.
 stla	brr	Bayesian inference on the ratio of two Poisson rates
 stla	dyadic	Dyadic numbers
+stla	expansions	Expansions of integer and real numbers, and odometers
 stla	floatExpansion	Float expansion in integer base
 stla	gmpadds	
 stla	kantorovich	Kantorovich distance between finite probability measures
@@ -9957,7 +9988,7 @@ tierneyn	visdat	A package to assist in visually testing a dataset
 tierneytim	FIACH	Development version of FIACH
 tilltnet	egonetR	
 tim-salabim	metvurst	meteorological visualisation utilities using R for science and teaching
-tim-scharf	binary	No description or website provided.
+tim-scharf	binary	
 timcdlucas	EMMLi	A Maximum Likelihood Approach To The Analysis Of Modularity
 timcdlucas	INLAutils	Utilities for INLA in R
 timcdlucas	MetapopEpi	Package for running metapopulation simulations
@@ -10486,7 +10517,7 @@ wilsonfreitas	sqliter	SQLite helper functions to make data munging less miserabl
 wilsonfreitas	transmute	Compact text parser
 wilsontom	LCPRO	Processing and analysis of LCMS metabolomics data
 wilsontom	MSdata	Example MS data for testing, developing and optimising
-wilsontom	fatsecretR	R Client for REST API access to the dietary information application FatSecret
+wilsontom	fatsecretR	R Client for REST API access to the dietary recording application FatSecret
 wilsontom	metProc	Functions for pre-processing metabolomics data sets
 wilsontom	metRF	Binary random forest classification and regression for OMICS level data sets
 wilsontom	metproc	Functions for pre-processing metabolomics data sets
