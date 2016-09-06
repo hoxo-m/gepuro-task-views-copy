@@ -3,6 +3,7 @@
 13479776	statTarget	Statistical Analysis of Metabolite Profile
 16xchen	Biomy	
 17843	mandrill	R wrapper for the Mandrill API
+17843	rollmop	
 2pie	Peg-Solitaire	No description or website provided.
 3inar	einr	A collection of miscellaneous R functions
 3inar	nowaclean	NOWAC data cleaning package
@@ -344,6 +345,7 @@ ChongWu-Biostat	MiSPU	Microbiome Based Sum of Powered Score (MiSPU) Tests
 Chris1221	GOldilocks	📚 Gene Ontology Label Discernment and Identification
 Chris1221	ccole	Wrappers and convenience functions either not yet included in a package or for personal use.
 Chris1221	coR-ge	🐶 An R package for the Examination of Multiple Correction Methodologies in Accurate Genomic Environments
+Chris1221	goldi	Gene Ontology Label Discernment and Identification
 Chris1221	mineR	📚 An R Package for Fuzzy Keyword Identification and Quantification in Natural Language
 ChrisKust	rexpar	rexpar R package - preliminary
 ChristofferFlensburg	slugPlot	makes fancy continous violin plots for ranked data
@@ -1435,6 +1437,7 @@ PepperLi	superplot	An R-package that implement a mixture of multiple graphics on
 PeteHaitch	DRMatrix	Compressed Storage of Numeric Matrices With Many Duplicate Rows
 PeteHaitch	DSArray	Compressed In-Memory Representation of 3-Dimensional Arrays That Contain Many Duplicate Slices
 PeteHaitch	GenomicTuples	Devel repository for GenomicTuples
+PeteHaitch	MethylationTuples	An R package for analysing, managing and visualising methylation patterns at genomic tuples.
 PeteHaitch	SparseSummarizedExperiment	An experimental R package that defines S4 classes and methods for sparse genomic data
 PeteHaitch	methsim	An R package to simulate DNA methylation data.
 PeteHaitch	repete	Miscellaneous R functions that I find useful.
@@ -5538,6 +5541,7 @@ hrbrmstr	ggalt	🌎 Extra Coordinate Systems, Geoms, Statistical Transformations
 hrbrmstr	hrbrmisc	personal R pkg
 hrbrmstr	hubway	R interface to the Hubway "API"
 hrbrmstr	hyphenatr	R interface to Hunspell hyphenation
+hrbrmstr	longurl	small R package for the longurl API
 hrbrmstr	metricsgraphics	htmlwidget interface to the MetricsGraphics.js D3 chart library
 hrbrmstr	mhn	Analyze and Visualize Data from Modern Honey Network Servers with R
 hrbrmstr	myip	Tools to Determine Your Public 'IP' Address in R
@@ -6893,6 +6897,7 @@ koncina	elisar	Import ELISA OD values from tecan sunrise excel files and perform
 koncina	unilur	A rmarkdown template to create two tutorial pdf files: The first without and the second with the solutions.
 koooee	depmixS4	
 kos59125	DYM	Adds 'Did you mean' feature to the R interactive
+kos59125	naturalsort	Natural ordering in R
 kos59125	shadowy	A RESTful API Framework for R
 kos59125	soracomr	SORACOM API Client in R
 kosugitti	bmds	Bayesian MDS package for R with rstan
@@ -7557,6 +7562,7 @@ mctp	p.arc	probabilistic recurrent chromosomal aberrations
 mculbert	ProbApps	Interactive simulations to explore probability and statistics concepts
 mcvaneede	Rsge	Continuation of the Rsge package for R created by Dan Bode.
 mdbrown	DecisionCurve	R package to plot decision curves
+mdbrown	survNRI	calculate the net reclassification index (NRI) for survival data
 mdbrown	survRpackages	Prospective bio-marker validation with survival data
 mdecorde	RSvgDevice	A lightweight svg graphics device for R
 mdelhey	mdutils	[r package] utility functions
@@ -9086,7 +9092,7 @@ rgknight	madese	Get school data from Massachusetts DESE
 rgmantovani	IDMr	Recommending algorithms of image description via Meta-learning
 rgmantovani	autoHyperBot	
 rgmantovani	metaFeatureExtraction	No description or website provided.
-rgmantovani	randomBot	
+rgmantovani	randomBot	Random hyper-parameter exploration for 'OpenML' datasets and 'mlr' classification algorithms
 rgmantovani	simpleBot	
 rgriff23	btw	BayesTraits wrapper for R
 rgriff23	caRds	Pretty caRds for special occasions
@@ -10271,6 +10277,7 @@ suzhesuzhe	GEM
 svanbelle	multiagree	Package to compare dependent and independent multilevel agreement measures
 svannoy	lsr-package	No description or website provided.
 svannoy	table1	Creates a Table of Descriptives Suited for MS-Word
+svazzole	randomMatRices	Generates random matrices in R
 svazzole	sparseVAR	R package / functions useful for generating and estimating sparse VAR models (SVAR)
 svazzole	sparsevar	R package for sparse VAR estimation
 svazzole	svar	R package / functions useful for generating and estimating sparse VAR models (SVAR)
@@ -10911,6 +10918,7 @@ vjcitn	biocMultiAssay	R package(s) demonstrating management of multiassay data o
 vjcitn	drosmap	support for clustering lecture in CSAMA2016: NMF for drosophila cell fate map from expression patterns
 vjcitn	gQTLbrowser	ggvis + shiny for interactive gQTL exploration
 vkobayashi	IincrementalityTEST	incrementality testing
+vkobayashi	IncrementalityTEST	incrementality testing
 vkostakos	hcitools	
 vladchimescu	RdocsJupyter	assists in conversion of R documentaition to ipython
 vladpetyuk	EuplotesCrassus.proteome	support of research manuscript
