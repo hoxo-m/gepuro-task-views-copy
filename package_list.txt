@@ -864,6 +864,7 @@ InouyeLab	NetRep	R package containing functions for assessing the replication/pr
 InstitutCurie	synerdrug	R package for drug synergy estimation
 Ironholds	WikidataR	An R package for the Wikidata API
 Ironholds	WikipediR	R's MediaWiki API client library
+Ironholds	batman	Convert categorical representations of logicals to actual logicals
 Ironholds	birdnik	Connector to the Wordnik API
 Ironholds	crater	Calling rust code from R
 Ironholds	credit	Better citation()s
@@ -1133,6 +1134,7 @@ MalathiSIDona	pathDESeq
 MalditoBarbudo	cvR	No description or website provided.
 MaleneJuul	ncdDetectTools	
 MalteThodberg	APhunteR	No description or website provided.
+MalteThodberg	CAGEfightR	Analysis of Cap Analysis of Gene Expression (CAGE) data using Bioconductor
 MalteThodberg	coRe	CoRe: Setup R on new machine
 ManchesterBioinference	DEtime	R package for two-sample time series analysis using Gaussian process methods
 MangoTheCat	RNMGraphics	NONMEM graphics
@@ -1253,6 +1255,7 @@ MatthieuStigler	partsm	R package for Periodic Autoregressive Time Series Models
 MatthieuStigler	tsDyn	tsDyn
 MattjCamp	Coder	R package that helps you write code
 MattjCamp	DataPoints	Makes it easy to switch between long and wide format datasets
+MattjCamp	Database	R objects for SQL Server, Amazon Redshift and SQLite databases
 MattjCamp	RHelpers	Shortcuts and useful functions that don't fit anywhere else but I still use all the time.
 MaximeRivest	scimeetr	Scientometric Meet R
 MaximeWack	desctable	An R package to produce descriptive and comparative tables
@@ -2078,6 +2081,7 @@ USGS-R	GcClust	No description or website provided.
 USGS-R	HUCAgg	HUC aggregator
 USGS-R	SampleSplitting	package for use in splitting flow-weighted samples
 USGS-R	USGSHydroOpt	Tools for hydrologic optical analysis
+USGS-R	USGSHydroTools	Compilation of tools to aid in hydrologic and water quality analysis.
 USGS-R	WREG	Develops regional estimation equations for streamflow characteristics that can be applied at a ungaged basins.
 USGS-R	dataRetrieval	This R package is designed to obtain its water quality sample data, streamflow data, and metadata directly from either the USGS or EPA, as well as user-supplied text files.
 USGS-R	geoknife	R tools for geo-web processing of gridded data via the Geo Data Portal. geoknife slices up gridded data according to overlap with irregular features, such as watersheds, lakes, points, etc.
@@ -2202,7 +2206,7 @@ Zouter	modex
 aLFQ	aLFQ	An R-package for estimating absolute protein quantities from label-free LC-MS/MS proteomics data
 aWhereAPI	aWhere-R-Library	An R package that facilitates accessing the aWhere Ag Intel Platform using R
 aaarchmiller	uhcplots	R Package to Create Used-Habitat Calibration Plots described in Fieberg et al. (In Review for Ecology Letters)
-aalfons	robmed	No description or website provided.
+aalfons	robmed	
 aalfons	robustHD	
 aaronbarnett	rstab	Utility Knife(s) for R
 aaronferrucci	WharfToWharfR	R package for race data, Santa Cruz's Wharf to Wharf
@@ -3364,7 +3368,7 @@ cargomoose	raptR	Rapid and Pretty Things in R : A shiny graphical user interface
 carinademel	RNAlife	
 carleshf	loadxls	Wrapper of (R) XLConnect for fast and easy load of MS Exel files.
 carleshf	r2pptx	
-carlganz	rintrojs	Wrapper for the intro.js library for shiny
+carlganz	rintrojs	Wrapper for the Intro.js library
 carlganz	svrepmisc	
 carlise	laplaceR	Exploring data parallelism and optimization in R
 carlise	linearR	Exploring data parallelism and optimization in R
@@ -3795,6 +3799,7 @@ csgillespie	roxygen2Comment	An Rstudio addin for adding and remove roygen2 comme
 csgillespie	rtypeform	An R interface to the 'typeform' API.
 csgillespie	typeform	An R interface to the typeform data APU
 csgillespie	voltagefit	
+csiro-crc-spin	RCSpin	The CRC-SPIN model implemented in R using the Reference Classes Object framework.
 csiu	candyplay	candy survey data
 csiu	candysurvey	R package containing candy survey data
 csiu	foofactor	R package foo-ing factors
@@ -5084,7 +5089,7 @@ gadaviel	LumReader	R package to simulate a Luminescence Reader
 gadenbuie	shart	shart: Smart Home Analysis in R Tool
 galuardi	analyzepsat	Automatically exported from code.google.com/p/analyzepsat
 galuardi	boaR	Belkin O'Reilly Algorithm
-galuardi	hmmwoa	Watch
+galuardi	hmmwoa	hidden markov model for psat data v.0
 gammarama	intRo	Shiny-based statistics learning application
 gangwug	MetaCycle	An integrated R package to evaluate periodicity in large scale data
 gangwug	MetaCycleV100	MetaCycle version 1.0.0
@@ -5636,6 +5641,7 @@ hotneim	lgde	R-packgage containing the code for multivariate and conditional den
 hovisa	annar	Chooses random card from a standard deck of cards. Can either show suit, face, value, or all three.
 howardjp	cmna	Computational Methods for Numerical Analysis
 howardjp	phonics	Phonetic Spelling Algorithms in R
+howardjp	waterfall	Waterfall Charts in R
 hoxo-m	KLIEP	Kullback-Leiblar Importance Estimation Procedure (with Cross Validation)
 hoxo-m	SparkRext	SparkR extension for closer to dplyr
 hoxo-m	analog	Analyzing Access Log Data with R
@@ -6522,6 +6528,7 @@ jokergoo	cotools	NGS tools for Conputational Oncology group in DKFZ
 jokergoo	epic	Integrative analysis for epigenomic sequencing data
 jokergoo	gtrellis	Genomic plot in trellis layout
 jokergoo	rGREAT	Client for GREAT Analysis
+jolars	eulerr	Proportional Euler diagrams
 jolars	qualpalr	Automatic Generation of Qualitative Color Palettes
 jomuller	ITCARES	R Package for Case-Crossover on Electronic Medical Records (EMR) for patient safety
 jomuller	dfexplore	R package to explore graphically a data.frame
@@ -7134,10 +7141,12 @@ ksint	kjsutil	No description or website provided.
 kstierhoff	surveyR	A package containing functions used by the Advanced Survey Technologies group at NOAA's Southwest Fisheries Science Center.
 kstreet13	slingshot	
 ksyan	CreddaLeases	No description or website provided.
+ktaylora	habitatWorkbench	Tools for habitat, climate, and species distributional modelling.
 ktaylora	landscapeAnalysis	Tools for getting stuff done in landscape ecology.
 kthohr	BMR	Bayesian Macroeconometrics in R
 kthorstmann	consr	Compute Consensus for Likert scales
 kthorstmann	horst	A small r package with functions used by me and some of my colleagues at HU Berlin
+kthorstmann	jing	Messages for and old colleague
 kthorstmann	quest	the quest package for questionnaire analysis
 ktoddbrown	FTICR_Processing	Watch
 ktoddbrown	rtedem	An R repository for terrestrial decomposition models
@@ -7214,6 +7223,7 @@ lbelzile	mev	Multivariate Extreme Value
 lbianca	testkbroman	
 lbianca	thesiscode	
 lborke	yamldebugger	yamldebugger - experimental R package
+lboxell	geomst	
 lbraglia	QScoring	[R package]: questionnaires scoring
 lbraglia	RStata	[R package]: A R-Stata interface
 lbraglia	aplore3	[R package]: Datasets from "Applied Logistic Regression" by Hosmer D.W., Lemeshow S. and Sturdivant X.
@@ -7849,6 +7859,7 @@ merlinoa	exhibit	clean up objects returned by ChainLadder package
 merlinoa	summaryrow	Flexible tool for adding summary rows to a data frame
 merrillrudd	LIME	Length-based integrated mixed effects model
 mespe	phenR	Basic package for calculating heat units and calibrating phenology in R
+metaOmic	MetaDCN	
 metaOmic	MetaDE	Differential analysis of multiple studies
 metaOmic	MetaKTSP	
 metaOmic	MetaPath	Meta analysis pathway enrichment
@@ -9136,6 +9147,7 @@ radiant-rstats	radiant.quant	Business analytics using R and Shiny
 raerose01	deconstructSigs	deconstructSigs
 rafaelcb	DatosBCCR	Paquete para conectarse al API del BCCR y bajar datos
 rafaeloliveiralima	RJabot	Pacote R para acesso a base de dados Jabot - JBRJ
+rafalab	rafalib	
 rafalszota	cats	No description or website provided.
 rafamonge	RealEstate	Real Estate analysis
 raivokolde	GOsummaries	
@@ -9829,7 +9841,7 @@ rwildermuth	FayLabExamples	No description or website provided.
 ryamada22	Ronlyryamada	
 ryamada22	mwaytable	
 ryamada22	spinSpherization	No description or website provided.
-ryanrbart	rhessysR	A package containing functions for running RHESSys in R and processing output
+ryanrbart	rhessysR	A package containing functions for running RHESSys from R
 ryanrsun	GEint	GEint package
 ryanscharf	goatcounter	No description or website provided.
 ryentes	careless	
@@ -10534,7 +10546,7 @@ svazzole	sparsevar	R package for sparse VAR estimation
 svazzole	svar	R package / functions useful for generating and estimating sparse VAR models (SVAR)
 sverchkov	bionetwork	R Project for Macine Learning of Biological Interaction Networks
 sverchkov	r-ai-search	R package implementing some basic AI search algorithms
-svkucheryavski	mdatools	Watch
+svkucheryavski	mdatools	R package for Multivariate Data Analysis
 swager	balanceHD	Approximately balanced estimation of average treatment effects in high dimensions.
 swager	crossEstimation	High-dimensional regression adjustments in randomized experiments
 swager	randomForestCI	randomForestCI
@@ -10662,6 +10674,7 @@ tdhock	WeightedROC	No description or website provided.
 tdhock	animint	animated and interactive web graphics
 tdhock	coseg	Constrained Optimal Segmentation
 tdhock	directlabels	Direct labels for multicolor plots in lattice or ggplot2
+tdhock	inlinedocs	Convert inline comments and examples to Rd documentation files
 tdhock	namedCapture	Watch
 tdhock	requireGitHub	record GitHub R package versions
 tdhock	testthatQuantity	Record times for unit tests
