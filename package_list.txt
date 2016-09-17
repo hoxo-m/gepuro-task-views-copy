@@ -157,7 +157,7 @@ Aulide81	estadisticos	Análisis descriptivo
 AustralianAntarcticDataCentre	availability	Estimating geographic space available to animals based on telemetry data
 AustralianAntarcticDataCentre	raadsync	
 AustralianAntarcticDataCentre	zigam	
-AustralianAntarcticDivision	bgmfiles	Example BGM Files for the Atlantis whole-of-ecosystem model: http://atlantis.cmar.csiro.au/
+AustralianAntarcticDivision	bgmfiles	Example BGM Files for the Atlantis whole-of-ecosystem model
 AustralianAntarcticDivision	fishtools	Generic tools for the analysis of fisheries data
 AustralianAntarcticDivision	orsifronts	Orsi fronts of the Southern Ocean
 AustralianAntarcticDivision	palr	useful palettes for plotting data
@@ -423,6 +423,7 @@ Dahaniel	DoOR.data	R package containing the data for the Database of Odor Respon
 Dahaniel	DoOR.functions	R package containing the functions used to build the Database of Odor Responses
 Dahaniel	glodatamix	basic functions to analyze data from the Galizia lab (.gloDataMix)
 DalsaMat	RBiotools	Bioinformatic R Functions
+DamianSiniakowicz	DamiaNN	
 DanBoyB	cba	A set of simple tools for transport project CBA
 DanHenebery	dhPlot	GGPLOT2 Theme for DanielH.io
 DanOvando	GUM	Run Global Upside Model in the manner of Costello et al 2016
@@ -1618,7 +1619,7 @@ QTCAT	qtcat.data	QTAC example dataset package.
 QianMazi	MaziBox	MaziBox
 QuackenbushLab	MONSTER	
 QuackenbushLab	pandaR	
-QuackenbushLab	yarn	Yet Another RNA-Seq package
+QuackenbushLab	yarn	YARN: Robust Multi-Tissue RNA-Seq Preprocessing and Normalization
 QuantAndrew	quantbox	
 QuantGen	BEDMatrix	A wrapper for binary PED files (PLINK)
 QuantGen	BGData	A Suite of Packages for Analysis of Big Genomic Data
@@ -3330,6 +3331,7 @@ c5sire	hidap2
 c97sr	idd	R Package for Infectious Disease Dynamics
 cBioPortal	cgdsr	R-Based API for accessing the MSKCC Cancer Genomics Data Server (CGDS)
 ca-vi	Climatology_Package	Build and maintain a R package for the Chair of Climatology at TU Berlin
+caariasr	pcaPA	
 cabajgtr	benstools	Watch
 cacha0227	ncappc	ncappc for NCA calculations and population PK model diagnosis
 caesar0301	movr	Human mobility data (in form of <x,y,t>) analysis and visualization in R.
@@ -4012,6 +4014,7 @@ davebraze	FDButils	Utility functions for use in other FDB packages.
 davesteps	d3circle	d3 circle packing interface for R
 davesteps	insertPipe	
 davesteps	randomFuns	No description or website provided.
+davetang	romim	
 davetgerrard	mlPhaser	
 davetgerrard	scraCH	R functions to scrape and aggregate public data from UK Companies House
 davetgerrard	utilsGerrardDT	
@@ -5536,6 +5539,7 @@ hdng	clonevol	Inferring and visualizing clonal evolution in multi-sample cancer 
 hdzierz	rkaka	R API to the biological database system Kaka
 healyke	DEsiR	Fractionation estimation in R package
 healyke	FestR	Fractionation estimation in R package
+healyke	TESIR	Fractionation estimation in R package
 heathermkrause	WWC	Knight Foundation Weighting Tool - Weighing the Wisdom of Crowds
 heavywatal	namaespace	Utility to create dummy R packages for namespace.
 heavywatal	rwtl	Personal R package
@@ -8498,6 +8502,7 @@ nuno-agostinho	psichomics	R package with a visual interface to quantify, analyse
 nurandi	katadasaR	An R Package of Word Stemming for Bahasa Indonesia Using Nazief & Adriani's Algorithm
 nutterb	ArgumentCheck	Simple Tools for Facilitating Informative Parameter Checks in R Functions
 nutterb	HydeNet	Hybrid Decision Networks in R
+nutterb	StudyPlanning	Statistical Power and Sample Size Analysis
 nutterb	lazyWeave	R package lazyWeave
 nutterb	ldsmls	Utilities to extend functionality for LDS Member and Leader Services.
 nutterb	pixiedust	Tables So Beautifully Fine-Tuned You Will Believe It's Magic.
@@ -8701,6 +8706,7 @@ paulgovan	QRAGadget	A Shiny Gadget for Interactive QRA Visualizations
 paulgovan	energyr	An R package containing data published by the United States Federal Energy Regularity Commission (FERC)
 paulhendricks	anonymizer	Anonymize data containing Personally Identifiable Information (PII) in R
 paulhendricks	debates	An R data package containing Presidential Debates transcripts
+paulhendricks	describer	Describe data in R
 paulhendricks	earthquakes	
 paulhendricks	functools	Tools for Functional Programming in R
 paulhendricks	profilr	Profile data in R
@@ -10781,7 +10787,7 @@ thmcmahon	taxFunctions	Functions to calculate Australian taxes and transfers
 thmild	histogram	Construction of regular and irregular histograms with different options for automatic choice of bins
 thmourikis	personalToolkit	Personal toolkit - R package
 thohag	pupilParse	pupilParse R library
-thohag	pupilPlot	No description or website provided.
+thohag	pupilPlot	
 thohag	readSMI	Reads SMI eye-tracking files.
 thom82	whassocr	Implementation of Whitehead's association network analysis
 thomased	colsci	Visual Modelling in R
@@ -10900,7 +10906,7 @@ tnagler	kdecopula	Kernel smoothing for bivariate copula densities
 tnagler	kdevine	Kernel density estimation based on vine copulas
 tnt198785	rqsamplesize	Sample size for quantile regrssion
 tobiaskley	quantspec	Quantile-based Spectral Analysis of Time Series
-tobiasmuetze	ThreeArmedTrials	No description or website provided.
+tobiasmuetze	ThreeArmedTrials	
 tobiasvonderhaar	pepvaR	
 tobitproject	tobitdiag	
 tobyjohnson	gtx	Genetics ToolboX R package
@@ -11552,6 +11558,7 @@ ycl6	TxDb.Bdistachyon.JGI.Bd3.1.geneexons	TxDb object for Brachypodium distachyo
 yeamin1	inzight	
 yesmaster	PracticaTwitter	Pràctica final per a la sincronització amb Twitter
 yezhaoqin	morningStarAnalytics	R package for MorningStar mutual fund dataset analysis (R)
+yfyang86	kmc	Kaplan Meier estimator with Constraints
 ygu427	myProj	Watch
 ygu427	seqAlign	No description or website provided.
 ygu427	yguR	my first repository
