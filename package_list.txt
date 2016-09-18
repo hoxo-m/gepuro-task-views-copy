@@ -1818,6 +1818,7 @@ SWotherspoon	bmixlm	Binary Mixtures of Linear Models
 SachaEpskamp	IsingSampler	Sampling methods and distribution functions for the Ising model
 SachaEpskamp	authGraph	Package for creating co-author networks based on web of science input
 SachaEpskamp	bootnet	Bootstrap methods for various network estimation routines
+SachaEpskamp	elasticIsing	Ising model estimation via Elastic Net and k-fold crossvalidation
 SachaEpskamp	graphicalVAR	No description or website provided.
 SachaEpskamp	lvnet	Latent variable network models
 SachaEpskamp	mlVAR	
@@ -3165,7 +3166,7 @@ borishejblum	kernscr	Kernel Machine Score Test for Pathway Analysis in the Prese
 borumlab	response	File repository for response-related analyses
 botanyhelp	Rufosightings	An R package of ufo sightings
 bowerth	nsoApi	retrieve and harmonize data from national statistical offices
-bowerth	stan	Watch
+bowerth	stan	
 bowerth	stanData	Watch
 boxuancui	DataExplorer	R package to simplify Exploratory Data Analysis
 boxuancui	eda	R package for exploratory data analysis
@@ -3622,6 +3623,7 @@ clayford	bme	Data and functions for Biostatistical Methods in Epidemiology (Newm
 clayford	nandc	Size and Critical Region Calculations (n and c)
 clbustos	dominanceAnalysis	Dominance Analysis (Azen and Bodescu), for multiple regression models: OLS, GLM and HLM
 clbustos	rcebn	Just some random methods I use on R. Mainly mplus interfaces and some utilities
+clemlaflemme	test	
 clintpgeorge	ldamcmc	Implements several Markov chain Monte Carlo (MCMC) algorithms for the latent Dirichlet allocation (LDA) model
 cloudcell	blotter	blotter "fork"
 cloudcell	fuzztest	R code stress / fuzz tester: tests all combinations of function input parameters enabling 100% code coverage & simplified unit testing
@@ -5032,6 +5034,7 @@ fredcommo	nplr
 fredericgo	stockr	
 fredfeng	MorpheusData	
 fredysiegrist	statanacoseq	
+frenkiboy	MyLib	
 frenzy2106	htmlwidgets	No description or website provided.
 friend1ws	pmsignature	R package for extracting mutation signatures from a list of somatic mutations
 friendly	WordPools	Classical word pools used in studies of learning and memory
@@ -5368,6 +5371,7 @@ gschofl	hlatools	A collection of tools to work with IMGT/HLA data
 gschofl	reutils	Talk to the NCBI EUtils
 gsee	FinancialInstrument	mirror of FinancialInstrument on R-Forge; an infrastructure for managing metadata of financial instruments
 gsee	qmao	mirror of qmao on R-Forge; quantmod add-on: some quantmod-like functions
+gsk3	bootLR	Bootstrapped confidence intervals for (negative) likelihood ratio tests.
 gsk3	taRifx.geo	taRifx.geo package for R, available on CRAN
 gtatters	Thermimage	Package for working with thermal image files
 gthar	NucleosomeDynamics	
@@ -6598,6 +6602,7 @@ jotsetung	mirhostgenes	mirhostgenes: putting miRNAs into genomic context. Defini
 jotsetung	mirtarbase	mirtarbase: a database of validated miRNA target gene interactions, as provided by the miRTarBase (http://mirtarbase.mbc.nctu.edu.tw/)
 jotsetung	unsoRted	Unsorted R functions and utilities.
 jotsetung	xcmsExtensions	Collection of methods and functions extending the functionality of the xcms Bioconductor package.
+jowalski	rtmr	R client for the Remember the Milk API
 jowers	nbadata	R Package to access nba data
 joyent	mantaRSDK	Joyent Manta R Software Development Kit
 joyofdata	RTwitterAPI	Making requests to Twitter's REST API v1.1
@@ -7914,6 +7919,7 @@ mhairi	ordered	Quick ways of making ordered factors in R. Particularly useful fo
 mhils	shortestpath	Shortest Path Algorithm Visualization
 mhk123	ma2net	No description or website provided.
 mhminai	helpR	R package for functions I use frequently
+mhowlett	rnanomsg	R binding for nanomsg
 mhpedersen	tblr	High-level versatile formatting of tables for use in knitr/Sweave
 mhtess	rwebppl	RWebPPL, an R interface to Webppl http://webppl.org
 mi2-warsaw	GOpro	
@@ -8707,8 +8713,10 @@ paulgovan	energyr	An R package containing data published by the United States Fe
 paulhendricks	anonymizer	Anonymize data containing Personally Identifiable Information (PII) in R
 paulhendricks	debates	An R data package containing Presidential Debates transcripts
 paulhendricks	describer	Describe data in R
+paulhendricks	detector	Detect data containing Personally Identifiable Information (PII) in R
 paulhendricks	earthquakes	
 paulhendricks	functools	Tools for Functional Programming in R
+paulhendricks	generator	Generate data containing fake Personally Identifiable Information (PII) in R
 paulhendricks	profilr	Profile data in R
 paulhendricks	scorer	Metrics for scoring machine learning models in R
 paulhendricks	titanic	An R data package containing Titanic datasets
@@ -8852,7 +8860,7 @@ phillc73	rinspace	R In Space: A collection of R functions returning interesting 
 phillc73	sqldf2	A faster R package replacement for sqldf. Maybe.
 philliplab	EpitopeMatcher	A package that can be used to find out how well the epitopes in a patient's virus' will be recognized by the HLA's present in the patient.
 philliplab	hdsResistanceModel	A Hybrid Dynamic/Stochastic Model of HIV Resistance Evolution
-philmikejones	checkr	Easily check regression assumptions in R
+philmikejones	checkr	✅ Easily check regression assumptions in R
 philmikejones	heateat	Heat or Eat
 philmikejones	rakeR	🏡 Spatial microsimulation ('raking') functions for R.
 philmikejones	townsendr	Townsend Material Deprivation Score - 2011 Data
@@ -9868,7 +9876,7 @@ saberry	cortisolR	Analyzing cortisol data.
 saberry	qualtricsR	Easy Qualtrics REST API calls through R.
 sabush	designGLMM	An R package for finding efficient designs with count responses, categorical factors and blocks
 sachserf	chronobiology	R-package that contains several functions to get additional information on POSIXct objects.
-sachserf	framework	framework for project management
+sachserf	framework	A framework for project structures in R
 sachserf	logitmp	R-package that contains a function for logistic model performance (logitmp)
 sachserf	repres	Support Reproducible Research
 sachsmc	cosinor	R package for estimation and prediction of the cosinor model for periodic data
@@ -9878,7 +9886,7 @@ sahilseth	flowr	Robust and efficient workflows using a simple language agnostic 
 sahilseth	funr	Simple Utility providing Shell Access to all R Functions
 sahilseth	params	Simplify parameters
 sahirbhatnagar	casebase	
-sahirbhatnagar	eclust	No description or website provided.
+sahirbhatnagar	eclust	
 sahirbhatnagar	manhattan	No description or website provided.
 sahirbhatnagar	manhattanly	
 sailthru	tidyjson	Tools for using dplyr with JSON data
