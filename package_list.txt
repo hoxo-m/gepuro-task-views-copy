@@ -3604,7 +3604,7 @@ cjgb	caRtociudad	R package to query cartociudad API
 cjgb	rPython-win	rPython for Windows
 cjgeyer	mcmc	R package mcmc (public version on CRAN)
 cjschulz	micromixR	Tools for microbiome analysis
-ck37	ckTools	Custom R functions for various things
+ck37	ckTools	R functions for project setup, data cleaning, parallelization, and targeted learning.
 ck37	htestimate	Horvitz-Thompson estimator for RCTs, with Joel Middleton
 ck37	varImpact	Variable importance through causal inference, with Alan Hubbard
 ckluss	cldtest	
@@ -4913,7 +4913,7 @@ fchuffar	epimedtools	A package allowing multi-omics analysis using R
 fchuffar	ptldata	A set of data dedicated to the ptlmapper R package.
 fcocquemas	rdatastream	A R interface for Datastream and Thomson Dataworks Enterprise
 fdavidcl	dlvis	No description or website provided.
-fdavidcl	dlvisr	No description or website provided.
+fdavidcl	dlvisr	Visualizations for unsupervised deep learning techniques
 fdetsch	Orcs	Omnidirectional R Code Snippets
 fditraglia	binivdoctr	
 fditraglia	ivdoctr	ivdoctr
@@ -11192,6 +11192,7 @@ vh-d	SFAt	R Package For SFA (Stochastic Frontier Analysis) Using Traditional Sta
 vh-d	VHtools	R package with various tools to make the life a little bit easier...
 vh-d	openLEIr	Interface for accessing metadata of financial entities based on their LEI codes from R
 victorcarmelo	WISH	
+vijaybarve	ENMGadgets	Gadgets for Ecological Niche Modelling
 vijaybarve	bdvis	Biodiversity data Visualizations in R
 vincent-dk	logitsgl	Fit Logistic Regression with Multi-response Using Sparse Group Lasso
 vincent-dk	lsgl	Linear Multiple Output Using Sparse Group Lasso
@@ -11353,6 +11354,7 @@ welch16	ChIPUtils	A package with basic utilities for ChIP analysis (both ChIPseq
 welch16	ChIPexoQual	
 welch16	ChIPexoQualExample	Example data for the ChIPexoQual pacakge
 wencke	wencke.github.io	GOplot
+wendellopes	rvswf	Vector Spherical Wave Functions and Force Calculations
 wendian	RImpalaCleanup	Cleans up and makes usable the data imported from Impala to R via RImpala
 wenjie2wang	reda	Recurrent event data analysis
 wenjie2wang	splines2	Regression Spline Functions and Classes Too
