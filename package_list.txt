@@ -25,6 +25,7 @@
 A-Simmons	RemoteLyraR	
 AABoyles	AIPredict	An R Package of datasets to help predict the creation of Artificial General Intelligence.
 AABoyles	ShRoud	A Package with all the functions I wish were in Base R
+AABoyles	hadleyverse	DEPRECATED. Instead of this, please use https://github.com/hadley/tidyverse
 ABFenix	06_libreriaR	Libreria que contiene las funciones asociadas a la practica 6
 ABFenix	libreriaR	Trabajos comunes en el tratamiento de datos
 ABS-dev	MF	Mitigated Fraction
@@ -3918,6 +3919,7 @@ dandermotj	monzo	R client for Monzo Banking API
 danfbflynn	fdabun	Abundance-weighted dendrogram-based functional diversity metrics
 danhan52	mateable	Tools to Assess Mating Potential in Space and Time
 danheck	RRreg	R package for multivariate analyses of the randomized response technique
+daniel-gerhard	medrc	An R package for mixed effect dose-response modeling, combining the packages nlme and drc.
 daniel-gerhard	mumocomp	Simultaneous Inference for Parameters in Multiple Models
 daniel-wells	comixr	Shared component gaussian mixture models in R
 daniel01001000	greengenes13.8_85MgDb	This is an R package with the greengenes 13.8 database 85 similarty cutoff OTU set for annotating 16S metagenomic sequence data using the metagenomeFeatures package (https://github.com/HCBravoLab/metagenomeFeatures.git)
