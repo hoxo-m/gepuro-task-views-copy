@@ -7906,6 +7906,7 @@ mfukata	testR	No description or website provided.
 mg14	deepSNV-old	Watch
 mgahan	boRingTrees	R Package for UIUC Dalling Lab
 mgborges	mahalanobisDist	Mahalanobis distance between two groups
+mgledi	DiffLogo	
 mgnaegi	sparsecomp	
 mgnaegi	topten	Building a prediction model for top 10 features
 mgperry	heatmaps	Plotting package originally based around the seqPattern Bioconductor package. Still very much in development.
