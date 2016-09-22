@@ -1000,6 +1000,7 @@ JosiahParry	cdtoolsxt	extension to datacamp cdtools to clean feedback
 JovingeLabSoftware	BioradConfig	
 JovingeLabSoftware	ExpSpect	ExpSpect
 JovingeLabSoftware	slinky	Putting the Fun into LINCS data analysis. Requires LincServe backend
+JrEduardo	CountReg	R Package for Modelling Dispersed Count Data
 JrEduardo	ce225-mlg	Trabalhos elaborados na disciplina CE225 - Modelos Lineares Generalizados
 JrEduardo	cmpreg	Pacote R para ajuste de modelos de regressão COM-Poisson desenvolvidos no TCC
 Juanjo-BCN	ParseologTMG	Función para el parseo de logs Microsoft TMG
@@ -1582,7 +1583,7 @@ PoisotLab	betalink	MIRROR - beta diversity of species interaction networks
 PoisotLab	paco	Procrustes analysis of cophylogenies
 PolMine	ctk	corpus toolkit
 PolMine	polmineR	R-package for text mining with the Corpus Workbench (CWB) as backend
-PolMine	polmineR.graph	No description or website provided.
+PolMine	polmineR.graph	
 PolMine	polmineR.misc	miscellaneous extensions for the polmineR base package
 PolMine	polmineR.plpr	Plugin for polmineR-packge for corpora of plenary protocols
 PolMine	polmineR.sampleCorpus	A small sample corpus of debates in the German Bundestag (used for examples in polmineR)
@@ -7632,7 +7633,7 @@ masalmon	opencage	R package for the OpenCage API -- both forward and reverse geo
 masalmon	riem	R package for accessing ASOS data via the Iowa Environment Mesonet
 masalmon	ropenaq	R package for the openaq API
 masalmon	rtimicropem	😷 R Package for the Reproducible Analysis of RTI MicroPEM Output Files 😷
-masalmon	usaqmindia	Data from the U.S. Embassy and Consulate air quality monitors in India
+masalmon	usaqmindia	😷 Data from the U.S. Embassy and Consulate air quality monitors in India 😷
 masalmon	watchme	📷 R package that supports the analysis of images obtained with wearable cameras and then annotated 📷
 masedki	selvarlik	No description or website provided.
 masko-p	DIFlasso	No description or website provided.
@@ -11257,7 +11258,7 @@ vz-risk	verisr	R package for working with VERIS data
 w9	zh	Fast heatmap
 w9	znmf	Fast and convenient NMF
 w9	zp-r	ZP: 3D scatter plot - R interface
-w9	zx	An R package full of helper functions I use on daily basis.
+w9	zx	An R package full of helper functions I use on a daily basis.
 wStockhausen	rCompTCMs	R package to facilitate comparisons of TCSAM2013 and 2015 models.
 wStockhausen	rPIBKC	R package for the PI blue king crab stock assessment.
 wStockhausen	rTCSAM2013	Source files for an R package with functions for running TCSAM2013 and plotting model results.
