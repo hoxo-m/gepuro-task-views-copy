@@ -11638,6 +11638,7 @@ yuanli22	RCUDA	R GPU computing package by Nvidia's CUDA
 yuanwei	my	quant research common tools in R
 yuchaojiang	CODEX	A normalization and copy number variation calling procedure for whole exome DNA sequencing data.
 yuchaojiang	Canopy	Accessing Intra-Tumor Heterogeneity and Tracking Longitudinal and Spatial Clonal Evolutionary History by Next-Generation Sequencing.
+yufree	enviGCMS	GC-MS data analysis for environmental science
 yufree	rgabriel	
 yuki0425	BMLSimulations	This package allows user to simulate a basic Biham-Middleton-Levine traffic model with two type of cars (red and blue) moving on a two-dimensional grid
 yuki0425	mc	R CRAN package to analyze and explore discrete- and continuous time- Markov Chains
