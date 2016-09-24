@@ -1211,7 +1211,7 @@ MarkEdmondson1234	googlegmailv1.auto	Gmail API
 MarkEdmondson1234	googlepeoplev1.auto	Google People API
 MarkEdmondson1234	googlestoragev1.auto	Cloud Storage JSON API
 MarkEdmondson1234	googleurlshortenerv1.auto	URL Shortener API
-MarkEdmondson1234	gtmR	No description or website provided.
+MarkEdmondson1234	gtmR	
 MarkEdmondson1234	predictClickOpenCPU	Code for the "Creating a content recommendation engine using R, OpenCPU and GTM" presentation. Presentation given at MeasureCamp London March 5th 2016
 MarkEdmondson1234	searchConsoleR	R interface with Google Search Console API v3, including Search Analytics.
 MarkEdmondson1234	semRushR	Access the SEMRush database
@@ -8511,6 +8511,7 @@ numbersmart	nsdl4tb	datalab for Tara Brooch
 nuno-agostinho	psichomics	R package with a visual interface to quantify, analyse and visualise alternative splicing data
 nurandi	katadasaR	An R Package of Word Stemming for Bahasa Indonesia Using Nazief & Adriani's Algorithm
 nutterb	ArgumentCheck	Simple Tools for Facilitating Informative Parameter Checks in R Functions
+nutterb	Bluegrass	An assortment of tools and gimmicks to simplify my professional responsibilities
 nutterb	HydeNet	Hybrid Decision Networks in R
 nutterb	StudyPlanning	Statistical Power and Sample Size Analysis
 nutterb	lazyWeave	R package lazyWeave
