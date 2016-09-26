@@ -10428,6 +10428,7 @@ statwonk	openNHTSA	An R wrapper for the U.S. Department of Transportation Nation
 statwonk	reliability	An R package for analyzing the reliability of systems.
 staudtlex	ame	Compute average marginal effects and standard errors in R
 stavakol	covsep	R package 'covsep'
+steadyfish	ogdindiar	R package to access data from Open Government Data Platform - India
 stefan-schroedl	plotluck	R tool for automated creation of ggplots. Examines one, two, or three variables and creates, based on their characteristics, a scatter, violin, box, bar, density, hex or spine plot, or a heat map. Also automates handling of observation weights, log-scaling of axes, reordering of factor levels, and overlays of smoothing curves and median lines.
 stefan8888	testpackage	No description or website provided.
 stefanbirr	QPBoot	Model validation using Quantile Spectral Analysis and Parametric Bootstrap techniques
