@@ -5694,7 +5694,7 @@ hrbrmstr	ggalt	🌎 Extra Coordinate Systems, Geoms, Statistical Transformations
 hrbrmstr	hrbrmisc	personal R pkg
 hrbrmstr	hubway	R interface to the Hubway "API"
 hrbrmstr	hyphenatr	R interface to Hunspell hyphenation
-hrbrmstr	longurl	small R package for the longurl API
+hrbrmstr	longurl	ℹ️ Small R package for the URL Expander API
 hrbrmstr	metricsgraphics	htmlwidget interface to the MetricsGraphics.js D3 chart library
 hrbrmstr	mhn	Analyze and Visualize Data from Modern Honey Network Servers with R
 hrbrmstr	myip	Tools to Determine Your Public 'IP' Address in R
@@ -5789,6 +5789,7 @@ iNZightVIT	iNZightPlots	Plot functions for use by iNZight.
 iNZightVIT	iNZightRegression	The core functions used to perform statistical inference for iNZight. For more info see: http://www.stat.auckland.ac.nz/~wild/iNZight/
 iNZightVIT	iNZightTS	The time series functionality designed for use within iNZight. For more info see: http://www.stat.auckland.ac.nz/~wild/iNZight/
 iNZightVIT	iNZightTools	Functions for intergration of iNZight GUI to iNZight packages.
+iNZightVIT	vit	A suite of visualization tools that demonstrate the intuition behind statistical inference.
 iagomosqueira	FLFishery	Draft of classes and methods for simpler fleet/fishery modelling
 iagomosqueira	tunadata	Aggregated Public Datasets from the Tuna RFMOs
 iamamagicalunicorn	fs.data.support	Package for manipulating data from FAOSTAT
@@ -9224,6 +9225,7 @@ ravigovind	ibrokers	Automatically exported from code.google.com/p/ibrokers
 ravingmantis	unittest	Unit testing for R
 ray-pacheco	JOC	
 ray9809	macrosoft	lame R library for reading microsoft csv
+ray9809	rectools	lame R library for reconciling datasets
 raybaser	FACTscorer	Scores the FACT and FACIT Family of Patient-Reported Outcome Measures
 raymondben	datavolley	R package for reading datavolley scouting files
 razZ0r	repscores	Calculate various reproducibility scores.
@@ -9260,6 +9262,7 @@ rcqls	CqlsPersistentRcppObject	Persistency for Rcpp objects
 rcqls	VAM	Virtual Age Model
 rcqls	flan	Adrien et Bernard FLAN project
 rdatsci	rt	R tools for the shell
+rdeborja	plotting.general	Publication ready plotting functions using ggplot2
 rdiaz02	varSelRF	
 rdisalv2	databuddha	Crutches for a middling R programmer
 rdisalv2	thedatabuddha.dataget	Intended for social scientists studying US education. Contains R functions for getting data into R.
