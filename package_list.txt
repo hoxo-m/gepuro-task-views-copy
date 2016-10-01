@@ -2989,7 +2989,7 @@ benjcunningham	googlecalendar	Easily access and modify calendars, events, and UI
 benjcunningham	govtrackr	Client for the GovTrack.us API
 benjh33	APMBook	Work and environment for Applied Predictive Modeling
 benjh33	radshiny	Simple R package to create multi-page shiny apps
-benjiec	xcms	No description or website provided.
+benjiec	xcms	
 benjjneb	dada2	Accurate sample inference from amplicon data with single nucleotide resolution
 benjones2	WOODCARB3R	
 benjones2	benr	Sample package for math and rolling dice
