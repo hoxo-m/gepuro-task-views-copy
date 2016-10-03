@@ -1768,7 +1768,7 @@ SCCC-BBC	GOSJ	No description or website provided.
 SE-A4S	formatSE	Watch
 SEEG-Oxford	movement	R package containing useful functions for the analysis of movement data in disease modelling and mapping
 SEEG-Oxford	seegMBG	Streamlined Model-based Geostatistics Functions for the SEEG Research Group
-SEELab	enaR	Watch
+SEELab	enaR	enaR = Ecological Network Analysis in R
 SESYNC-ci	postGIStools	Tools for Interacting with PostgreSQL / PostGIS Databases
 SESYNC-ci	rslurm	Submit R calculations to a SLURM cluster
 SESman	rbl	R package to help working with biologging data, focused on diving predators.
