@@ -1897,6 +1897,7 @@ SimonSchafferer	CLIHelperPackage
 SimonSchafferer	ClassSplitMergeHelper	
 SimonSchafferer	MirWalkUtility	Retrieval of data from the mirwalk2 website within R
 SimonSchafferer	RNASeqUtility	
+SimonSchafferer	short-ncrna-annotation	Ranges based and sequence based ncRNA annotation in R
 SimonYansenZhao	wskm	An R package for weighted k-means clustering that will replace weightedKmeans
 SimoneHermann	BaPreStoPro	
 SimoneHermann	hierRegSDE	No description or website provided.
@@ -5728,6 +5729,7 @@ hsavoy	madr	The madr R package for Bayesian post-processing
 hsm	blm	Bayesian linear regression
 hsonne	blockrand2	R package for block randomisation, inspired by R package blockrand
 hstojic	hclass	No description or website provided.
+hstojic	hfunk	Collection of useful R functions for everyday data analysis and modeling
 htc502	ewrefxn	useful R auxillaries
 htmlwidgets	sparkline	jQuery Sparkline HTML Widget for R
 htso	AHA	No description or website provided.
