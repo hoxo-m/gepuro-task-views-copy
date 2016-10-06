@@ -2122,7 +2122,7 @@ UvA-MAD	faradr
 UweBlock	ISOweek	R Package to compute week of the year and weekday according to ISO 8601.
 UweBlock	lazysql	Lazy SQL programming: Helper functions to create SQL expressions which can be combined to SQL statements under program control.
 VCCRI	CIDR	Clustering through Imputation and Dimensionality Reduction
-VCCRI	XGSA	
+VCCRI	XGSA	XGSA: a statistical method for cross-species gene set analysis
 VZoche-Golob	AFTtools	Tools for the Data Preparation, Fitting and Diagnostics of Accelerated Failure Times Models via 'survreg' in R
 VZoche-Golob	UdderHealthMonitor	R package that allows to analyse the udder health of dairy cow herds.
 VadimSokolov	pacourse	
@@ -10413,6 +10413,7 @@ statguy	SpaceTimeModels	An R package for fitting parametric spatial and spatio-t
 statisfactions	playitbyr	NOTE: Depends on obsolete packages and only works with Csound 6. Play it By R is a flexible toolkit for data sonification in R. The functions allow the user to map data onto sonic parameters like pitch, tempo, and rhythm, and output sound and sound files.
 statist7	sitar	Growth curve analysis
 statistikat	mzR	R package to compute estimates and their errors for Austrian Microcensus data
+statistikat	x12GUI	The R package x12GUI
 statlab	permuter	R functions to develop the application examples presented in "Permutation Tests for Complex Data: Theory, Applications and Software" - Pesarin, Salmaso
 statmach	recommendationengine	
 statnet	EpiModel	Mathematical Modeling of Infectious Disease
