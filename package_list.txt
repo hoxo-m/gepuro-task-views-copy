@@ -6595,6 +6595,7 @@ joshmarsh	TSTestDataUtil
 joshua-james-f	DiscDots	R package for discrete dot plots built on ggplot2
 joshualeond	rCentrik	InCentrik R Package
 joshuaschwab	ltmle	Longitudinal Targeted Maximum Likelihood Estimation package
+joshuaulrich	IBrokers	R API to Interactive Brokers Trader Workstation
 joshuaulrich	LSPM	R implementation of Ralph Vince's Leverage Space Portfolio Model
 joshuaulrich	TTR	Technical analysis and other functions to construct technical trading rules with R
 joshuaulrich	quantmod	Quantitative Financial Modelling Framework
@@ -10981,6 +10982,7 @@ tpepler	ssaCUSUM	R package for SSA-CUSUM method
 tpepler	theolib	Collection of auxilliary functions for R
 tpetzoldt	FAmle	R package for maximum likelihood fitting of distributions to hydrological time series
 tpetzoldt	rodeoExt	
+tpilz	LUMP	R package: Landscape Unit Mapping Program
 tpoisot	digitize	A R package to extract data from scatterplots
 tpq	codenames	An R package to implement a Codenames-like word association game with AI
 tpq	eek	An R package to pre-process bulk EKG data and detect the physiological peaks
