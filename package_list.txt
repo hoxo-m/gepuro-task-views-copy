@@ -2296,7 +2296,7 @@ adelahay	BrainCell	BrainCell a R package to explore gene sets in the context of 
 adelahay	BrainCellH	R package to build Brain Cell Heatmap (gene set expression pattern across adult mouse cortical cell taxonomy from the Allen Brain institute single cell RNAseq dataset)
 adelmofilho	HBFS	
 adelmofilho	TsallisMath	
-adeschen	nucleoSimShiny	
+adeschen	nucleoSimShiny	Interactive generation of nucleosomes maps using Shiny framework and based on Bioconductor nucleoSim package
 adeschen	similaRpeak	Metrics to estimate the level of similarity between two ChIP-Seq profils
 adfi	torbie	Simulate values from probability distributions
 adibender	coalitions	Calculate coalition probabilities based on survey results
@@ -9606,6 +9606,7 @@ ropensci	USAboundariesData	Datasets for the 'USAboundaries' package
 ropensci	aRxiv	Programmatic interface to the Arxiv API
 ropensci	alm	R client for the Lagotto almetrics API platform
 ropensci	binomen	taxonomic name classes and parsing methods
+ropensci	bmc	BMC interface for R
 ropensci	bold	Interface to the Bold Systems barcode website
 ropensci	branching	I can haz all the phylogenies
 ropensci	brranching	I can haz all the phylogenies
@@ -9672,6 +9673,7 @@ ropensci	rglobi	R library to access species interaction data of http://globalbio
 ropensci	rif	Neuroscience Information Network R client
 ropensci	rinat	A programmatic interface to iNaturalist
 ropensci	ritis	Integrated Taxonomic Information Service (ITIS) R client
+ropensci	rmetadata	Get scholarly metadata from around the web.
 ropensci	rnbn	Access to NBN data from R
 ropensci	rnoaa	R interface to many NOAA data APIs
 ropensci	rnpn	R client for the National Phenology Network database API
