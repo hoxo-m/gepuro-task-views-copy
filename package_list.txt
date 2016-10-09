@@ -7729,6 +7729,7 @@ mbiggins12	else_foo	A package to eliminate the need for tedious if, else if, els
 mbiggins12	write_mult	A package to eliminate the need for tedious if, else if, else statements in Rstudio.
 mbojan	alluvial	Alluvial diagrams
 mbojan	db6	No description or website provided.
+mbojan	fschecklists	
 mbojan	intergraph	R package for converting network data objects between different classes
 mbojan	isnar	No description or website provided.
 mbojan	linkprediction	Link prediction
