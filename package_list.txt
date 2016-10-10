@@ -4328,6 +4328,7 @@ dolchan	ssgsrt	Perform single sample gene set rank test
 dominikl	rOMERO	OMERO R Gateway
 dominiqueemmanuel	graphpdd	
 dominiqueemmanuel	verbatim.utils	
+donaldmusgrove	gibbS	A Gibb Sampler
 donaldmusgrove	ngspatial	The ngspatial R package
 donboyd5	bdata	Data
 donboyd5	fof	Flow of Funds Z1 data from the Federal Reserve Board
@@ -7341,6 +7342,7 @@ lgallindo	EGGGc	A new class of distributions called the exponentiated generalize
 lgallindo	SecKW	No description or website provided.
 lgallindo	SinIW	An R package to work with the Sine Inverse Weibull distribution.
 lgallindo	TanB	No description or website provided.
+lgatto	MLInterfaces	Uniform interfaces to R machine learning procedures for data in Bioconductor containers - see http://bioconductor.org/packages/release/bioc/html/MLInterfaces.html for official code.
 lgatto	MSnbase	Base Classes and Functions for MS-based Proteomics
 lgatto	ProtGenerics	S4 generic functions for Bioconductor proteomics infrastructure
 lgatto	ProteomicsAnnotationHubData	Annotation hub data for proteomics data
