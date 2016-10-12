@@ -5261,6 +5261,7 @@ gitronald	files	Effective File Navigation from the R Console
 gitronald	htester	Convert htest lists into data.frames
 gitronald	ip2locationData	Expanded IP to location dataset from ip2location.com
 gitronald	ip2location_data	Expanded IP to location dataset from ip2location.com
+giupo	RPostgreSQL2	Additions to RPostgreSQL2
 giupo	rdataset	Simple timeseries container for R
 giupo	rprogressbar	ProgressBar per R
 giupo	rutils	
