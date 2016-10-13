@@ -6293,6 +6293,7 @@ jfaganUK	rucinet	An R package to interact with UCINET files
 jfisher-usgs	Grid2Polygons	Convert spatial grids to polygons
 jfisher-usgs	ObsNetWQ	
 jfisher-usgs	ObsNetwork	Optimizes long-term monitoring networks
+jfisher-usgs	RNWIS	NWIS: R interface
 jfisher-usgs	RSurvey	Analysis of spatially distributed data
 jfisher-usgs	Trends	Trend analysis of monitoring network data
 jfisher-usgs	gsgen	USGS general-purpose functions and datasets
@@ -9175,6 +9176,7 @@ radiant-rstats	radiant.quant	Business analytics using R and Shiny
 raerose01	deconstructSigs	deconstructSigs
 rafaelcb	DatosBCCR	Paquete para conectarse al API del BCCR y bajar datos
 rafaeloliveiralima	RJabot	Pacote R para acesso a base de dados Jabot - JBRJ
+rafalab	bumphunter	bumphunter
 rafalab	rafalib	
 rafalszota	cats	No description or website provided.
 rafamonge	RealEstate	Real Estate analysis
