@@ -2225,6 +2225,7 @@ aayala15	AssetPricingTests	R package for the estimation of asset pricing models 
 abarbour	eqldens	Agnew's Mapping of Earthquake Magnitudes to Gutenberg-Richter Distributions
 abarbour	irisws	Access to IRIS Web Services within R
 abarbour	kelvin	Solutions to the the Kelvin differential equation in R:
+abarbour	pborepo	A repository for information for Plate Boundary Observatory (PBO) stations and their data products.
 abarbour	psd	Adaptive sine-multitaper spectrum estimation in R:
 abarbour	sibson	Fault reactivation
 abarbour	strain	Tools for working with geodetic strainmeter data in R.
@@ -11730,7 +11731,7 @@ zbwrnz	parkcluster	A refactored version of the clustering algorithm created by P
 zcesur	ager	No description or website provided.
 zdealveindy	theta	Calculates theta co-occurence based index of species specialization
 zdealveindy	twinspanR	TWINSPAN in R
-zdealveindy	weimea	No description or website provided.
+zdealveindy	weimea	
 zdk123	BatchStARS	R package for Stability Approach to Regularization Selection for lasso problems, in batch computing environments.
 zdk123	SpiecEasi	Sparse InversE Covariance estimation for Ecological Association and Statistical Inference
 zdk123	compPLS	An R package for Partial Least Squares analysis and plotting for (high dimensional) compositional data
