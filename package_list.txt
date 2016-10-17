@@ -3891,7 +3891,7 @@ daattali	ezknitr	Avoid the typical working directory pain when using 'knitr'
 daattali	ezrender	Render markdown/HTML reports from R without the typical pain of dealing with working directories
 daattali	ggExtra	Add marginal histograms to ggplot2, and more ggplot2 enhancements
 daattali	lightsout	Lights Out game implemented in R
-daattali	rsalad	Watch
+daattali	rsalad	A mix of useful R functions that are good for you
 daattali	rstudio-addins	List of useful RStudio addins made by useRs
 daattali	shinyforms	Easily create questionnaire-type forms with Shiny
 daattali	shinyjs	Easily improve UX in your Shiny apps without having to learn JavaScript
