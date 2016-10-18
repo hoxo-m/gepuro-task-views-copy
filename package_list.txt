@@ -7362,7 +7362,7 @@ lgatto	synapter	Label-free data analysis pipeline for optimal identification and
 lgatto	yagop	Yet Another Gene Ontology Package
 lgsilvaesilva	spGoogle	Development the spGoogle package for users R.
 liamrevell	phytools	
-lian0090	SKAT2	No description or website provided.
+lian0090	SKAT2	
 liangqianSheng	foofactors	Homework 8
 libbi	RBi	Visualise LibBi output in R.
 libcell	FeatureSelectionR	A new Package used for feature selection in metabolomics
