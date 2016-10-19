@@ -6229,7 +6229,7 @@ jefferis	readbitmap	R package to identify and read bitmap images
 jefferis	scanimage	read and analyse 2 photon images from ScanImage
 jefferis	vfbr	R Package to Access the Virtual Fly Brain project API
 jefferislab	flywatch	Code to analyse movies of flies – principally based on Yoshi Aso's (Janelia) behaviour rig
-jefferislab	nat.flybrains	Drosophila-specific additional data for use with nat.templatebrains
+jefferislab	nat.flybrains	Support for Drosophila bridging/mirroring registrations in R
 jefferislab	nat.nblast	R package implementing the NBLAST neuron search algorithm, as an add-on for the NeuroAnatomy Toolbox (nat) R package.
 jefferislab	nat.templatebrains	Support for 3D template brains used as targets for image registration
 jefferys	DataRepo	Manage a large data file repository
