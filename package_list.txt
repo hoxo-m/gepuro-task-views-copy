@@ -6205,6 +6205,7 @@ jedazard	MVR	Mean-Variance Regularization
 jedazard	PRIMsrc	Bump Hunting by Patient Rule Induction Method for Survival, Regression and Classification
 jedick	canprot	Differential expression of proteins in cancer
 jeff-goldsmith	vbvs.concurrent	
+jeff-hughes	reghelper	R package with regression helper functions
 jeff-hughes	simulateR	R package for running simulations
 jeff-regier	MiniMiniMaxUQ	Mini-minimax uncertainty quantification for emulators
 jeffbhasin	goldmine	Annotate genomic contexts and discover functional element enrichments
@@ -6229,6 +6230,7 @@ jefferis	readbitmap	R package to identify and read bitmap images
 jefferis	scanimage	read and analyse 2 photon images from ScanImage
 jefferis	vfbr	R Package to Access the Virtual Fly Brain project API
 jefferislab	flywatch	Code to analyse movies of flies – principally based on Yoshi Aso's (Janelia) behaviour rig
+jefferislab	jimpipeline	
 jefferislab	nat.flybrains	Support for Drosophila bridging/mirroring registrations in R
 jefferislab	nat.nblast	R package implementing the NBLAST neuron search algorithm, as an add-on for the NeuroAnatomy Toolbox (nat) R package.
 jefferislab	nat.templatebrains	Support for 3D template brains used as targets for image registration
@@ -7101,6 +7103,7 @@ kosukeimai	qss-swirl	Swirl Lessons for ``Quantitative Social Science: Introducti
 kosukeimai	wru	Who Are You? Bayesian Prediction of Racial Category Using Surname and Geolocation
 kota7	gogamer	R package for Go Game Data
 kouroshz	creNet	A biological network-based regularization model for response prediction using baseline gene-expression data
+kozo2	linkdbRDF	A R client library for LinkDB RDF Endpoint
 kozo2	org.Slycopersicum.eg.db	Genome wide annotation for Tomato
 kozo2	tomatoGeneChip.db	No description or website provided.
 kpjonsson	kpjmisc	Miscellaneous R functions
