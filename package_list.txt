@@ -1867,6 +1867,7 @@ SebKiesel	RTutorKyotoandLeakage
 SelimRaboudi	Rvw	
 SelimRaboudi	wrangleR	R functions for wrangling with data
 Selventa	RDataInfrastructure	R Data Infrastructure
+Senbee	Sequgio	
 Senbee	mwt	
 Senbee	radiant.biostat	
 Senbee	radiant.unibs	
