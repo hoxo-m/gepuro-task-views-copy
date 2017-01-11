@@ -10604,8 +10604,7 @@ jangorecki	rbitcoind	R interface to bitcoin daemon
 jangorecki	shinyBI	Business Intelligence shinyApp
 janhoo	NA	
 janhoo	crecs	Comfy Multivariate Regression and Cross-validation with Spatial Objects
-janhoo	gcm	Use GRASS colormaps in R raster plots
-janhoo	quansdm	Quantitative species disrtibution modelling with cross-validation
+janhoo	gcm	Use GRASS colormaps in R raster plquansdm	Quantitative species disrtibution modelling with cross-validation
 janjansen86	ptrackr	ptrackr - a package to track individual particles through 2D- and 3D-space
 janlorenz	rankoptimalweights	
 jannes-m	RQGIS	RQGIS - integrating R with QGIS
